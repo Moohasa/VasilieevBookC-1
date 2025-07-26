@@ -1,0 +1,7 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\SortArrayDemoApp\bin\Debug\SortArrayDemoApp.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\SortArrayDemoApp\bin\Debug\SortArrayDemoApp.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\SortArrayDemoApp\bin\Debug\SortArrayDemoApp.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\SortArrayDemoApp\obj\Debug\SortArrayDemoApp.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\SortArrayDemoApp\obj\Debug\SortArrayDemoApp.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\SortArrayDemoApp\obj\Debug\SortArrayDemoApp.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\SortArrayDemoApp\obj\Debug\SortArrayDemoApp.pdb

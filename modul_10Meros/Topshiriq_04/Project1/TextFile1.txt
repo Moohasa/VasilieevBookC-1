@@ -1,0 +1,27 @@
+﻿4-topshiriq
+
+Quyidagi funksiyalarni o‘z ichiga olgan dastur tuzing:
+
+1. Asosiy (1-darajadagi) klass:
+   - Ochiq (public) butun sonli (int) maydon mavjud bo‘ladi.
+   - Bir dona argument qabul qiladigan metod bo‘ladi:
+     → Bu metod `int` qiymatni maydonga o‘rnatadi.
+   - Konstruktor ham bir dona `int` argument qabul qiladi.
+
+2. 2-darajadagi hosila klass (ya’ni, 1-klassdan meros oladi):
+   - Ochiq `char` (belgili) maydon mavjud bo‘ladi.
+   - Ikkita argument (`int` va `char`) qabul qiladigan metod bo‘ladi:
+     → Bu metod 1-klassdagi metodni overload qiladi (ya’ni, nomi bir xil, parametri ko‘p).
+     → Maydonlarga qiymat beradi: `int` — 1-klassdagi maydon, `char` — o‘zidagi maydon.
+   - Konstruktor ham ikkita argument (`int`, `char`) qabul qiladi.
+
+3. 3-darajadagi hosila klass (ya’ni, 2-klassdan meros oladi):
+   - Ochiq `string` (matnli) maydon mavjud bo‘ladi.
+   - Uchta argument (`int`, `char`, `string`) qabul qiladigan metod bo‘ladi:
+     → Bu metod 2-klassdagi metodni overload qiladi.
+     → Uchinchi maydon (matnli) ham qiymat oladi.
+   - Konstruktor ham uchta argument (`int`, `char`, `string`) qabul qiladi.
+
+4. Har bir klassda `ToString()` metodi aniqlanadi:
+   - Bu metod klass nomi va maydon(lar) qiymatini satr (string) shaklida qaytaradi.
+   - Har bir `ToString()` metodi `override` qilingan bo‘ladi.

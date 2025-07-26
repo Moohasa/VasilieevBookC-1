@@ -1,0 +1,66 @@
+﻿String izlash dasturi - qadam-baqadam tahlil
+
+1-Qadam: Matn tayyorlash
+------------------------
+txt = "hullas, ikkiga qo'shuv ikki va ko'paytiruv ikki teng oltiga bo'ladi"
+Matn uzunligi: 68 belgi
+
+2-Qadam: Substring izlash
+------------------------
+str = "ikki"
+
+- txt.IndexOf(str) => 8 (birinchi "ikki" boshlanishi)
+- txt.IndexOf(str, 9) => 23 (ikkinchi "ikki")
+- txt.LastIndexOf(str) => 43 (oxirgi "ikki")
+
+3-Qadam: Belgilangan oraliqda substring izlash
+----------------------------------------------
+- txt.IndexOf(str, 7, 9) => 8 (7-indekstdan 9 ta belgi ichida "ikki" bor)
+- txt.LastIndexOf(str, 9, 3) => -1 (oraliqda yo'q)
+
+4-Qadam: Belgilar bo'yicha izlash
+---------------------------------
+symb = 'a'
+- txt.IndexOf('a') => 4 (birinchi 'a')
+- txt.IndexOf('a', 5) => 13 (ikkinchi 'a')
+- txt.LastIndexOf('a') => 65 (oxirgi 'a')
+- txt.LastIndexOf('a', 64) => 58 (oxirgidan oldingi 'a')
+- txt.IndexOf('a', 7, 9) => 13 (oraliqda 'a' bor)
+
+5-Qadam: 'b' harfi izlash
+-------------------------
+symb = 'b'
+- txt.IndexOf('b') => 60
+
+6-Qadam: Bir nechta belgilarni qidirish
+----------------------------------------
+s = {'i', 'k', 'o'}
+- txt.IndexOfAny(s) => 8
+- txt.LastIndexOfAny(s, 9) => 9
+- txt.LastIndexOfAny(s) => 63
+- txt.IndexOfAny(s, 7, 9) => 8
+- txt.LastIndexOfAny(s, 15, 9) => 9
+
+Xulosa:
+--------
+| Amaliyot                            | Natija |
+|-----------------------------------|--------|
+| IndexOf("ikki")                   | 8      |
+| IndexOf("ikki", 9)                | 23     |
+| LastIndexOf("ikki")               | 43     |
+| IndexOf("ikki", 7, 9)             | 8      |
+| LastIndexOf("ikki", 9, 3)         | -1     |
+| IndexOf('a')                      | 4      |
+| IndexOf('a', 5)                   | 13     |
+| LastIndexOf('a')                  | 65     |
+| LastIndexOf('a', 64)              | 58     |
+| IndexOf('a', 7, 9)                | 13     |
+| IndexOf('b')                      | 60     |
+| IndexOfAny({'i','k','o'})         | 8      |
+| LastIndexOfAny({'i','k','o'}, 9)  | 9      |
+| LastIndexOfAny(...)               | 63     |
+| IndexOfAny(..., 7, 9)             | 8      |
+| LastIndexOfAny(..., 15, 9)        | 9      |
+
+
+

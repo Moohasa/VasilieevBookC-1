@@ -1,0 +1,7 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ConstructorDemo\obj\Debug\ConstructorDemo.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ConstructorDemo\obj\Debug\ConstructorDemo.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ConstructorDemo\bin\Debug\ConstructorDemo.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ConstructorDemo\bin\Debug\ConstructorDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ConstructorDemo\bin\Debug\ConstructorDemo.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ConstructorDemo\obj\Debug\ConstructorDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ConstructorDemo\obj\Debug\ConstructorDemo.pdb

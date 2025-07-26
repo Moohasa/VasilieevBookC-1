@@ -1,0 +1,7 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\HarHilO'lchamliMassiv\bin\Debug\HarHilO'lchamliMassiv.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\HarHilO'lchamliMassiv\bin\Debug\HarHilO'lchamliMassiv.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\HarHilO'lchamliMassiv\bin\Debug\HarHilO'lchamliMassiv.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\HarHilO'lchamliMassiv\obj\Debug\HarHilO'lchamliMassiv.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\HarHilO'lchamliMassiv\obj\Debug\HarHilO'lchamliMassiv.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\HarHilO'lchamliMassiv\obj\Debug\HarHilO'lchamliMassiv.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\HarHilO'lchamliMassiv\obj\Debug\HarHilO'lchamliMassiv.pdb

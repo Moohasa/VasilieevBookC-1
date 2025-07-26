@@ -1,0 +1,10 @@
+﻿. Напишите программу, в которой создается одномерный числовой массив и заполняется числами, 
+которые при делении на 5 дают в остатке 2
+(числа 2, 7, 12, 17 и так далее). Размер массива вводится пользователем.
+Предусмотреть обработку ошибки, связанной с вводом некорректного
+значения.
+
+. Bir o'lchovli raqamli massivni yaratuvchi va uni 5 ga bo'linganda 2 qoldig'ini qoldiradigan
+raqamlar bilan to'ldiradigan dastur yozing.
+(2, 7, 12, 17 raqamlari va boshqalar). Massivning o'lchami foydalanuvchi tomonidan kiritiladi.
+Noto'g'ri qiymat kiritish bilan bog'liq xatolarni ko'rsating.

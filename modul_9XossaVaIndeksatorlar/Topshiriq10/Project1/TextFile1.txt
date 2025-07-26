@@ -1,0 +1,37 @@
+﻿Matnli massiv mavjud bo‘lgan klass yarating. Klassda ikkita indeksator bo‘lsin:
+
+Bir o‘lchamli indeksator:
+
+Matnli massivning elementini o‘qish yoki o‘zgartirish imkonini beradi (ya'ni obj[i] → satr).
+
+Ikki o‘lchamli indeksator:
+
+Matnli massivdagi satrdan aniq belgini o‘qish imkonini beradi (ya'ni obj[i, j] → belgi).
+
+i — qaysi satr,
+
+j — qaysi belgi.
+
+Bonus: Agar i yoki j massiv chegarasidan chiqib ketsa, tsiklik indekslash (aylana bo‘yicha) amalga oshiriladi (ya'ni indekslar avtomatik mod orqali to‘g‘rilanadi).
+
+🧩 Step-by-step nima qilish kerak:
+1. Klass yarating: MyClass
+string[] texts — matnli massiv saqlanadi.
+
+2. Bir o‘lchamli indeksator (this[int i])
+get: texts[i % texts.Length] → tsiklik kirish
+
+set: o‘sha joyga yangi satr yozish
+
+3. Ikki o‘lchamli indeksator (this[int i, int j])
+get: texts[i % texts.Length][j % texts[i].Length]
+
+Bu ham tsiklik indekslashni ishlatadi.
+
+4. Namuna:
+obj[0] — birinchi satr
+
+obj[0, 3] — birinchi satrdagi 4-belgi (indeks 3)
+
+obj[10] — agar massiv 3 ta elementdan iborat bo‘lsa, bu 10 % 3 = 1 bo‘ladi → obj[1]
+

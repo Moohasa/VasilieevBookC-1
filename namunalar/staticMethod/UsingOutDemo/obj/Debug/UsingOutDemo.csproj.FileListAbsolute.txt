@@ -1,0 +1,7 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\UsingOutDemo\bin\Debug\UsingOutDemo.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\UsingOutDemo\bin\Debug\UsingOutDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\UsingOutDemo\bin\Debug\UsingOutDemo.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\UsingOutDemo\obj\Debug\UsingOutDemo.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\UsingOutDemo\obj\Debug\UsingOutDemo.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\UsingOutDemo\obj\Debug\UsingOutDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\UsingOutDemo\obj\Debug\UsingOutDemo.pdb

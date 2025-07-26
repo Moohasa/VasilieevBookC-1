@@ -1,0 +1,64 @@
+﻿Ha, to’g‘ri! Quyida “Konstruktorlar va destruktorlar qanday ishlaydi” mavzusiga oid tushunchalar asosida matn tayyorlab berdim:
+
+---
+
+# Konstruktorlar va Destruktorlar: Ko‘p bosqichli merosda
+
+## 1. Konstruktorlar
+
+* Konstruktorlar obyekt yaratilganda avtomatik ishga tushadi.
+* Har bir klass o‘z konstruktoriga ega bo‘ladi.
+* Agar klass boshqa klassdan meros olgan bo‘lsa, avlod klass konstruktoridan oldin bazaviy klass konstruktorlari chaqiriladi.
+* Tartib: **Bazaviy klassdan boshlanadi, avlod klasslar bilan tugaydi.**
+
+**Misol:**
+
+```csharp
+class A { public A() { Console.WriteLine("A"); } }
+class B : A { public B() { Console.WriteLine("B"); } }
+class C : B { public C() { Console.WriteLine("C"); } }
+```
+
+```csharp
+new C();
+// Natija:
+// A
+// B
+// C
+```
+
+## 2. Destruktorlar
+
+* Destruktorlar obyekt xotiradan chiqarilganda (Garbage Collector) ishga tushadi.
+* Ular konstruktorga teskari tartibda chaqiriladi.
+* Tartib: **Avlod klassdan boshlanadi, bazaviy klass bilan tugaydi.**
+* Destruktorlar `base` bilan chaqirilmaydi, lekin C# runtime ularni avtomatik chaqiradi.
+
+**Misol:**
+
+```csharp
+class A { ~A() { Console.WriteLine("~A"); } }
+class B : A { ~B() { Console.WriteLine("~B"); } }
+class C : B { ~C() { Console.WriteLine("~C"); } }
+```
+
+```csharp
+new C();
+GC.Collect();
+GC.WaitForPendingFinalizers();
+
+// Natija:
+// ~C
+// ~B
+// ~A
+```
+
+## 3. Xulosa:
+
+* Konstruktorlar har doim yuqoridan pastga (base → derived) chaqiriladi.
+* Destruktorlar har doim pastdan yuqoriga (derived → base) chaqiriladi.
+* Destruktorlar "o‘zini orqasidan olib yuradi" degan ibora shuni bildiradiki, har bir destruktorni chaqirish orqali .NET tizimi avtomatik tarzda barcha ajdodlarning destruktorlarini ham ketma-ket chaqirib chiqadi.
+
+---
+
+Agar siz konstruktor va destruktorlar bilan bog‘liq yanada murakkab misollar yoki `Dispose()` usuli bilan solishtirishni xohlasangiz, alohida yozib beraman.

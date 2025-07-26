@@ -1,0 +1,11 @@
+Matnli maydon (string) ga ega bo‘lgan klass yarating.
+Quyidagi **tip o‘zgartirish operatorlari (conversion operators)**ni overload qiling:
+
+Obyektdan **int**ga o‘zgartirish — natija: matn uzunligi
+
+Obyektdan **char**ga o‘zgartirish — natija: matnning birinchi belgisi
+
+Butun sondan (int) obyektga o‘zgartirish — matnli maydon berilgan miqdorda 'A' belgilaridan iborat bo‘ladi
+
+Ushbu operatorlarni ishlatib, dasturda natijani ko‘rsating.
+

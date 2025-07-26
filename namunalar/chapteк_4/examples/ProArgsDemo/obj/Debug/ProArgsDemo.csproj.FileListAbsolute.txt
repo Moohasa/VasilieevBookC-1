@@ -1,0 +1,7 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\ProArgsDemo\bin\Debug\ProArgsDemo.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\ProArgsDemo\bin\Debug\ProArgsDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\ProArgsDemo\bin\Debug\ProArgsDemo.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\ProArgsDemo\obj\Debug\ProArgsDemo.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\ProArgsDemo\obj\Debug\ProArgsDemo.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\ProArgsDemo\obj\Debug\ProArgsDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\ProArgsDemo\obj\Debug\ProArgsDemo.pdb

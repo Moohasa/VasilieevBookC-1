@@ -1,0 +1,58 @@
+
+IndexOf metodlari haqida tushuncha
+
+IndexOf metodlari C# dasturlash tilida string ichidan ma’lum bir qator yoki belgini qidirish uchun ishlatiladi. Ular berilgan qatorning birinchi uchrashuvining indeksini qaytaradi, topilmasa -1 beradi.
+
+1. IndexOf(string value)
+
+Matnda value qatorining birinchi uchrashuvining indeksini topadi.  
+Misol:  
+string txt = "salom dunyo";  
+int index = txt.IndexOf("dunyo");  // index = 6
+
+
+2. IndexOf(string value, int startIndex)
+
+Qidiruvni startIndex indeksidan boshlab amalga oshiradi.  
+Misol:  
+int firstIndex = txt.IndexOf("ikki");  
+int secondIndex = txt.IndexOf("ikki", firstIndex + 1);  
+
+
+3. IndexOf(string value, int startIndex, int count)
+
+Qidiruvni startIndex dan boshlaydi va faqat count belgidan iborat segmentda qidiradi.  
+Misol:  
+txt.IndexOf("ikki", 7, 9);
+
+
+4. LastIndexOf(string value)
+
+Matnning oxiridan boshlab qidiradi va so’nggi uchrashuv indeksini qaytaradi. Shuningdek, startIndex va count bilan ham ishlashi mumkin.
+
+
+Natijalar
+
+- Agar qidirilgan substring topilsa, uning birinchi belgisi indeksi qaytadi (0 dan boshlanadi).  
+- Agar topilmasa, -1 qaytadi.
+
+
+Misol:
+
+string txt = "abcabcabc";
+string search = "bc";
+
+int first = txt.IndexOf(search);          // 1
+int second = txt.IndexOf(search, first + 1); // 4
+int third = txt.IndexOf(search, second + 1); // 7
+int noFound = txt.IndexOf(search, third + 1); // -1
+
+
+Muhim qoidalar
+
+- startIndex indeksdan qidirishni boshlaydi.  
+- count — qidiriladigan segment uzunligi.  
+- Agar parametrlar segment chegarasidan chiqsa, xatolik yuz beradi.  
+- -1 qidirilgan qiymat topilmaganda qaytadi.
+
+Agar qo‘shimcha tushuntirish yoki misollar kerak bo‘lsa, so‘rashingiz mumkin!

@@ -1,0 +1,7 @@
+D:\my_projects\topshiriqlarC#\modul_6Class\topshiriq08\Project10\bin\Debug\Project10.exe.config
+D:\my_projects\topshiriqlarC#\modul_6Class\topshiriq08\Project10\bin\Debug\Project10.exe
+D:\my_projects\topshiriqlarC#\modul_6Class\topshiriq08\Project10\bin\Debug\Project10.pdb
+D:\my_projects\topshiriqlarC#\modul_6Class\topshiriq08\Project10\obj\Debug\Project10.csproj.AssemblyReference.cache
+D:\my_projects\topshiriqlarC#\modul_6Class\topshiriq08\Project10\obj\Debug\Project10.csproj.CoreCompileInputs.cache
+D:\my_projects\topshiriqlarC#\modul_6Class\topshiriq08\Project10\obj\Debug\Project10.exe
+D:\my_projects\topshiriqlarC#\modul_6Class\topshiriq08\Project10\obj\Debug\Project10.pdb

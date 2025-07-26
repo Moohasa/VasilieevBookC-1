@@ -1,0 +1,7 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\ArrayToMethodDemo\bin\Debug\ArrayToMethodDemo.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\ArrayToMethodDemo\bin\Debug\ArrayToMethodDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\ArrayToMethodDemo\bin\Debug\ArrayToMethodDemo.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\ArrayToMethodDemo\obj\Debug\ArrayToMethodDemo.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\ArrayToMethodDemo\obj\Debug\ArrayToMethodDemo.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\ArrayToMethodDemo\obj\Debug\ArrayToMethodDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\ArrayToMethodDemo\obj\Debug\ArrayToMethodDemo.pdb

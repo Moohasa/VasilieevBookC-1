@@ -1,0 +1,8 @@
+D:\my_projects\topshiriqlarC#\namunalar\8_overloadOperator\03overloadTaqqosash\Project2\bin\Debug\Project2.exe.config
+D:\my_projects\topshiriqlarC#\namunalar\8_overloadOperator\03overloadTaqqosash\Project2\bin\Debug\Project2.exe
+D:\my_projects\topshiriqlarC#\namunalar\8_overloadOperator\03overloadTaqqosash\Project2\bin\Debug\Project2.pdb
+D:\my_projects\topshiriqlarC#\namunalar\8_overloadOperator\03overloadTaqqosash\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+D:\my_projects\topshiriqlarC#\namunalar\8_overloadOperator\03overloadTaqqosash\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+D:\my_projects\topshiriqlarC#\namunalar\8_overloadOperator\03overloadTaqqosash\Project2\obj\Debug\Project2.exe
+D:\my_projects\topshiriqlarC#\namunalar\8_overloadOperator\03overloadTaqqosash\Project2\obj\Debug\Project2.pdb
+D:\my_projects\topshiriqlarC#\namunalar\8_overloadOperator\03overloadTaqqosash\Project2\obj\Debug\Project2.exe.config

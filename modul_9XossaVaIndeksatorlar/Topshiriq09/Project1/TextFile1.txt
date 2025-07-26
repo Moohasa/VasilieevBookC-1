@@ -1,0 +1,13 @@
+﻿Topshiriq:
+Dastur yozing, unda ikki o‘lchovli sonli massiv bo‘lgan klass mavjud bo‘lsin.
+Klass uchun ikkita indeksator tavsiflang.
+
+Ikki o‘lchovli indeksator (ikki butun sonli indeks bilan) massivning kerakli elementining qiymatini o‘qish va o‘zgartirish imkonini beradi.
+
+Bitta butun sonli indeks bilan ishlaydigan indeksator massivning berilgan qatordagi eng katta element qiymatini qaytaradi.
+
+Ob’ektni bitta indeks bilan indekslash orqali qiymatni tayinlash massivning shu qatordagi eng katta elementiga qiymat berishni anglatadi.
+
+Qator indeks bilan belgilanadi.
+
+Agar qatorda eng katta qiymat bir nechta bo‘lsa, birinchi uchragan elementga qiymat beriladi.

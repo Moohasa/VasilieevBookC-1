@@ -1,0 +1,12 @@
+﻿3. Напишите программу, в которой создается одномерный символьный
+массив из 10 элементов. Массив заполняется буквами «через одну», 
+начиная с буквы 'a': то есть массив заполняется буквами 'a', 'c', 'e',
+'g' и так далее. Отобразите массив в консольном окне в прямом и обратном порядке. 
+Размер массива задается переменной
+
+
+3. 10 ta elementdan iborat bir o‘lchovli belgilar massivini yaratuvchi dastur tuzing.
+Massiv 'a' harfi bilan boshlanuvchi harflar bilan birma-bir to'ldiriladi: 
+ya'ni massiv 'a', 'c', 'e', ​​'g' va hokazo harflar bilan to'ldiriladi. 
+Konsol oynasida massivni oldinga va teskari tartibda ko'rsating. 
+Massivning o'lchami o'zgaruvchi tomonidan o'rnatiladi

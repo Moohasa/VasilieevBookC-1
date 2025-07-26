@@ -1,0 +1,7 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\ForeachDemo\bin\Debug\ForeachDemo.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\ForeachDemo\bin\Debug\ForeachDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\ForeachDemo\bin\Debug\ForeachDemo.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\ForeachDemo\obj\Debug\ForeachDemo.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\ForeachDemo\obj\Debug\ForeachDemo.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\ForeachDemo\obj\Debug\ForeachDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\ForeachDemo\obj\Debug\ForeachDemo.pdb

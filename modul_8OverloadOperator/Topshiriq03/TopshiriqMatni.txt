@@ -1,0 +1,2 @@
+Ikkita butun sonli maydoni bo'lgan klass yarating. Ushbu klass uchun operatorlarni qayta yuklash metodlarini yozing, ular ikki obyektni “kichik” yoki “katta” ekanligini taqqoslash imkonini bersin. Taqqoslash qoidasi shuki, agar bir obyektning maydonlari kvadratlari yig'indisi ikkinchi obyektning maydonlari kvadratlari yig'indisidan kichik yoki katta bo'lsa, u obyekt kichik yoki katta deb qaraladi.
+

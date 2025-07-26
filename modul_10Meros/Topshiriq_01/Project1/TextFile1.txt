@@ -1,0 +1,54 @@
+﻿Topshiriq matni (tarjimasi):
+Dastur yozing, unda quyidagilar bo‘lishi kerak:
+
+Himoyalangan (protected) matnli maydon (text field) mavjud bo‘lgan asosiy (baza) klass.
+
+Ushbu klassda matnli parametr qabul qiluvchi konstruktor bo‘lishi kerak.
+
+ToString() metodi qayta aniqlangan bo‘lishi kerak (override qilingan).
+
+Keyin, ushbu asosiy klass asosida meros orqali hosila klass (ya’ni undan kelib chiqqan klass) yaratiladi.
+
+Bu hosila klassda yana bitta qo‘shimcha himoyalangan matnli maydon bo‘ladi.
+
+Ushbu hosila klassda quyidagi konstruktorlar bo‘lishi kerak:
+
+faqat bitta matnli parametr qabul qiladigan versiyasi;
+
+ikki matnli parametr qabul qiladigan versiyasi.
+
+Shuningdek, bu klassda ham ToString() metodi qayta aniqlanadi.
+
+Har ikkala klassda ToString() metodi quyidagicha ishlaydi:
+
+Klass nomini va tegishli matnli maydon(lar) qiymatini matn ko‘rinishida qaytaradi.
+ Asosiy klass yaratish
+Bu klassni oddiy qilib BaseClass deb nomlaymiz.
+
+Ichida protected (ya’ni: faqat o‘zida va undan meros olgan klasslarda ko‘rinadigan) matn turidagi field bo‘ladi. Masalan: text.
+
+Konstruktor string tipidagi parametrni oladi va uni text ga o‘rnatadi.
+
+ToString() metodi bu klass nomini (BaseClass) va text qiymatini qaytaradi.
+
+Maqsad – har qanday holatda obyekt haqida tushunarli matn olish.
+
+2️⃣ Hosila klass yaratish
+Asosiy klassdan meros oladi (DerivedClass : BaseClass).
+
+Bu klassda yana bitta protected string field qo‘shiladi, masalan: additionalText.
+
+Ikkita konstruktor bo‘ladi:
+
+Birinchisi: faqat bitta matnli parametr oladi va uni textga o‘rnatadi.
+
+Ikkinchisi: ikki matnli parametr oladi – birinchisi text, ikkinchisi additionalText uchun.
+
+ToString() metodi DerivedClass nomini va ikkala field (text, additionalText) qiymatlarini matn shaklida qaytaradi.
+
+🔁 ToString() haqida tushuncha
+Har ikki klass ToString() metodini override qiladi.
+
+Bu metod har doim klass nomi + ichki matn qiymatini string ko‘rinishida qaytaradi.
+
+Bu foydalanuvchiga obyektning holatini matn ko‘rinishida ko‘rsatish imkonini beradi.

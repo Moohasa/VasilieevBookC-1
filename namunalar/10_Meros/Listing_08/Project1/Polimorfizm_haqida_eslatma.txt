@@ -1,0 +1,50 @@
+POLIMORFIZM HAQIDA QISQA ESLATMA
+==================================
+
+📅 Sana: 2025-07-22
+
+1. POLIMORFIZM NIMA?
+---------------------
+Polimorfizm — bu bir xil nomdagi metodlar har xil klasslarda har xil ishlashi mumkinligi.
+Ya'ni, umumiy ko‘rinish (ota klass) orqali avlod klassdagi metodni ishlatish.
+
+2. SHARTLAR:
+------------
+✔ Ota klassdagi metod 'virtual' bo‘lishi kerak.
+✔ Avlod klassda u 'override' qilinishi kerak.
+✔ Obyekt ota klass turida saqlanishi mumkin.
+
+3. MISOL:
+---------
+class Alpha
+{
+    public virtual void Show() => Console.WriteLine("Alpha");
+}
+
+class Bravo : Alpha
+{
+    public override void Show() => Console.WriteLine("Bravo");
+}
+
+Alpha A = new Bravo();
+A.Show();   // Natija: Bravo
+
+4. OBYEKTLARNI TURLARIGA QARAB TENGLASHTIRISH
+--------------------------------------------
+✔ Alpha A = new Bravo();    ✅ Ha, chunki Bravo — bu Alpha
+❌ Bravo B = new Alpha();    🚫 Yo‘q, chunki Alpha — bu Bravo emas
+
+Bu implicit (aniq ko‘rsatilmagan) upcasting deb ataladi.
+
+5. new VS override
+--------------------
+✔ new — metodni YASHIRADI (polimorfizm ishlamaydi)
+✔ override — metodni QAYTA TA’RIFLAYDI (polimorfizm ishlaydi)
+
+6. FOYDALI ESLATMA:
+-------------------
+Alpha obj = new Bravo();
+obj.method();  // agar method override qilingan bo‘lsa — Bravo'dan bajariladi,
+               // aks holda Alpha'dan bajariladi.
+
+Yakuniy xulosa: "Virtual + override" — bu kuchli mexanizm. "new" esa shunchaki yashirish.

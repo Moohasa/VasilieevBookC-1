@@ -1,0 +1,7 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\MetodUzatma_RefArgsDemo\bin\Debug\MetodUzatma_RefArgsDemo.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\MetodUzatma_RefArgsDemo\bin\Debug\MetodUzatma_RefArgsDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\MetodUzatma_RefArgsDemo\bin\Debug\MetodUzatma_RefArgsDemo.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\MetodUzatma_RefArgsDemo\obj\Debug\MetodUzatma_RefArgsDemo.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\MetodUzatma_RefArgsDemo\obj\Debug\MetodUzatma_RefArgsDemo.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\MetodUzatma_RefArgsDemo\obj\Debug\MetodUzatma_RefArgsDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\MetodUzatma_RefArgsDemo\obj\Debug\MetodUzatma_RefArgsDemo.pdb

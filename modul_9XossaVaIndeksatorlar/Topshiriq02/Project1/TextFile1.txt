@@ -1,0 +1,6 @@
+﻿Shunday dastur yozingki, unda biror klassda butun sonli massiv (int[]) va butun sonli property (xususiyat)
+bo‘lsin.
+Agar bu property orqali qiymat o‘qilsa (get), u massiv 
+elementlarini ketma-ket va aylanuvchi (tsiklik) tarzda qaytarib bersin.
+Agar property orqali qiymat berilsa (set), 
+u ayni vaqtda qaytarilishi kerak bo‘lgan massiv elementini yangilasin

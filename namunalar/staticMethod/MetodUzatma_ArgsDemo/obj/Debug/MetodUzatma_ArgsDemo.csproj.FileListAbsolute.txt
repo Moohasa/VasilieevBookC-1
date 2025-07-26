@@ -1,0 +1,7 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\MetodUzatma_ArgsDemo\bin\Debug\MetodUzatma_ArgsDemo.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\MetodUzatma_ArgsDemo\bin\Debug\MetodUzatma_ArgsDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\MetodUzatma_ArgsDemo\bin\Debug\MetodUzatma_ArgsDemo.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\MetodUzatma_ArgsDemo\obj\Debug\MetodUzatma_ArgsDemo.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\MetodUzatma_ArgsDemo\obj\Debug\MetodUzatma_ArgsDemo.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\MetodUzatma_ArgsDemo\obj\Debug\MetodUzatma_ArgsDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\MetodUzatma_ArgsDemo\obj\Debug\MetodUzatma_ArgsDemo.pdb

@@ -1,0 +1,15 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\usingObjectsDemo\bin\Debug\usingObjectsDemo.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\usingObjectsDemo\bin\Debug\usingObjectsDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\usingObjectsDemo\bin\Debug\usingObjectsDemo.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\usingObjectsDemo\obj\Debug\usingObjectsDemo.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\usingObjectsDemo\obj\Debug\usingObjectsDemo.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\usingObjectsDemo\obj\Debug\usingObjectsDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\usingObjectsDemo\obj\Debug\usingObjectsDemo.pdb
+D:\my_projects\topshiriqlarC#\namunalar\classAndObjects\usingObjectsDemo\bin\Debug\usingObjectsDemo.exe.config
+D:\my_projects\topshiriqlarC#\namunalar\classAndObjects\usingObjectsDemo\bin\Debug\usingObjectsDemo.exe
+D:\my_projects\topshiriqlarC#\namunalar\classAndObjects\usingObjectsDemo\bin\Debug\usingObjectsDemo.pdb
+D:\my_projects\topshiriqlarC#\namunalar\classAndObjects\usingObjectsDemo\obj\Debug\usingObjectsDemo.csproj.AssemblyReference.cache
+D:\my_projects\topshiriqlarC#\namunalar\classAndObjects\usingObjectsDemo\obj\Debug\usingObjectsDemo.exe.config
+D:\my_projects\topshiriqlarC#\namunalar\classAndObjects\usingObjectsDemo\obj\Debug\usingObjectsDemo.csproj.CoreCompileInputs.cache
+D:\my_projects\topshiriqlarC#\namunalar\classAndObjects\usingObjectsDemo\obj\Debug\usingObjectsDemo.exe
+D:\my_projects\topshiriqlarC#\namunalar\classAndObjects\usingObjectsDemo\obj\Debug\usingObjectsDemo.pdb

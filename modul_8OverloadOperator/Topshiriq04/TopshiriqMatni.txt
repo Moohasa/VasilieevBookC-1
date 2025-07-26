@@ -1,0 +1,8 @@
+Butun sonli va matnli maydonlari bo‘lgan klass yarating. Barcha solishtirish operatorlarini qayta yuklang.
+
+«Katta» va «kichik» solishtirishlari faqat matnli maydonlarning uzunligiga asoslanadi.
+
+«Katta yoki teng» va «kichik yoki teng» solishtirishlari faqat butun sonli maydonlarning qiymatlariga asoslanadi.
+
+«Teng» va «teng emas» solishtirishlari esa butun sonli va matnli maydonlarning ikkisini ham tekshiradi.
+Shuningdek, Equals() va GetHashCode() metodlarini qayta yozish usulini ham taklif qiling.

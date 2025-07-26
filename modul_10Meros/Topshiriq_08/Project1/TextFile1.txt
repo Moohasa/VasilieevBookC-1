@@ -1,0 +1,26 @@
+﻿Dastur yozing, unda:
+
+Bazaviy klassda:
+
+Ochiq (public) butun son (int) maydon bor
+
+Virtual indeksator bor: u number maydonining raqamlarini (masalan, 123 → 1, 2, 3) raqamlar bo‘yicha o‘qish imkonini beradi
+
+Hosila klassda:
+
+Yana bitta ochiq (public) butun sonli maydon bor
+
+Indeksatorning yangi versiyasi mavjud:
+
+2 ta indeks qabul qiladi
+
+1- indeks: qaysi maydonni tanlash (bazaviy yoki yangi maydon)
+
+2- indeks: tanlangan son ichidan qaysi raqamni olish
+
+Bundan tashqari, hosila klassda indeksatorning 1 ta indeksli versiyasi override qilinadi, lekin bu safar:
+
+ikki maydon qiymati qo‘shiladi
+
+o‘sha yig‘indi soni ustida raqamlar ajratiladi
+

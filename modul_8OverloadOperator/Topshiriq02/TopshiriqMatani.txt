@@ -1,0 +1,31 @@
+Dastur yozing. Unda quyidagilarga ega bo‘lgan klass bo‘lishi kerak:
+
+🔹 Maydon (field):
+Klassda bitta maydon bo‘ladi — u bir o‘lchamli butun sonlar massiviga ishora qiladi (int[]).
+
+🔹 Konstruktor:
+Klassda bitta butun sonli parametrli konstruktor bo‘ladi, bu parametr massiv uzunligini belgilaydi.
+
+Ob’ekt yaratilganda barcha elementlar 0 ga teng bo‘ladi.
+
+🔹 Quyidagi operatorlar overload qilinadi:
+~ unar operatori
+Ob’ektga qo‘llanganda, natija sifatida massiv elementlarini o‘z ichiga olgan matnli satr (string) qaytadi.
+
+++ unar operatori
+Ob’ektga qo‘llanganda, massivga bitta yangi element (qiymati 0) qo‘shiladi.
+Natijada o‘sha ob’ektning o‘zi (referens) qaytariladi.
+
+-- unar operatori
+Ob’ektga qo‘llanganda, massivdan bitta element (oxirgisi) o‘chiriladi.
+Natijada o‘sha ob’ektning o‘zi qaytariladi.
+
++ binary operatori
+Quyidagi barcha kombinatsiyalar bo‘yicha overload qilinadi:
+
+Ob’ekt + Ob’ekt → yangi ob’ekt, massivi — ikkala massivning birlashmasi
+
+Ob’ekt + int → yangi ob’ekt, oxiriga int qiymat qo‘shilgan
+
+int + Ob’ekt → yangi ob’ekt, boshiga int qiymat qo‘shilgan
+

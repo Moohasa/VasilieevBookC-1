@@ -1,0 +1,27 @@
+Dastur tuzing, unda quyidagilarga ega bo‘lgan simvol (char) tipidagi maydoni bor bo‘lgan klass bo‘lsin:
+
+Klassda quyidagi operatorlar ortiqcha yuklangan (overload qilingan) bo‘lishi kerak:
+Inkremеnt operatori ++
+Ob’ektga ++ operatorini qo‘llaganda, uning simvol maydonidagi qiymat kod jadvalidagi navbatdagi simvolga o‘zgaradi.
+Misol: 'A' → 'B', 'Z' → '[' va hokazo.
+
+Dekrement operatori --
+Ob’ektga -- operatorini qo‘llaganda, simvol oldingi belgiga o‘zgaradi.
+Misol: 'C' → 'B'
+
+Binary + operatori
+
+Ob’ekt va butun son (int) yig‘indisi hisoblanadi.
+
+Natijada yangi ob’ekt yaratiladi.
+
+Misol: 'A' + 2 → 'C'
+
+Binary - operatori
+
+Ikki ob’ekt orasidagi simvol kodlari farqi butun son tarzida hisoblanadi.
+
+Misol: 'D' - 'A' → 3
+
+Eslatma: ++ va -- operatorlari ob’ektga ishora (reference) qaytaradi.
+

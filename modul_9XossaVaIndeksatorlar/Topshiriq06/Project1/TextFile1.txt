@@ -1,0 +1,46 @@
+﻿Dastur yozing. Unda:
+
+Butun sonli massiv bo‘lgan klass bo‘lsin.
+
+Indeksator ishlatiladi:
+
+get → massivdagi elementni o‘qish
+
+set → massiv elementiga qiymat yozish.
+
+Biroq indeksator 0 dan emas, boshqa son (masalan, 1 yoki 100) dan boshlanishi kerak.
+
+Indeks oralig‘i (eng kichik va eng katta indeks) konstruktor orqali beriladi.
+
+Indeksatorli klass yozing, unda massiv 0 dan emas, foydalanuvchi belgilagan qiymatdan boshlanadi.
+
+Misol:
+
+Siz MyClass(5, 9) deb obyekt yaratsangiz:
+
+massiv uzunligi = 9 - 5 + 1 = 5 ta
+
+va siz obj[5], obj[6], ..., obj[9] kabi foydalanishingiz kerak.
+
+Foydalanuvchi noto‘g‘ri indeks bersa, IndexOutOfRangeException chiqmasligi uchun ehtiyot chorasi ko‘rilsin.
+
+🧠 Nima qilish kerak?
+Klass nomi: MyClass
+
+private int[] data; — ichki butun sonli massiv
+
+private int lower; — boshlang‘ich indeks (foydalanuvchi belgilaydi)
+
+public int this[int index] — indeksator
+
+get: data[index - lower] orqali elementni qaytaradi
+
+set: data[index - lower] = value;
+
+Konstruktor:
+
+Parametrlari: int lower, int upper
+
+data = new int[upper - lower + 1];
+
+this.lower = lower;

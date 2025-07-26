@@ -1,0 +1,1851 @@
+Структура папок
+Серийный номер тома: A816-87BD
+D:.
++---modul_1
+|   +---Topshiriq01_ismFamiliya
+|   |   +---ConsoleVersiya
+|   |   |   \---Program
+|   |   |       +---.dist
+|   |   |       +---.vs
+|   |   |       |   \---Program
+|   |   |       |       +---CopilotIndices
+|   |   |       |       |   \---17.14.734.62261
+|   |   |       |       +---FileContentIndex
+|   |   |       |       \---v17
+|   |   |       +---bin
+|   |   |       |   +---Debug
+|   |   |       |   |   \---net8.0
+|   |   |       |   \---Release
+|   |   |       |       \---net8.0
+|   |   |       \---obj
+|   |   |           +---Debug
+|   |   |           |   \---net8.0
+|   |   |           |       +---ref
+|   |   |           |       \---refint
+|   |   |           \---Release
+|   |   |               \---net8.0
+|   |   |                   +---ref
+|   |   |                   \---refint
+|   |   \---DialogVersia
+|   |       +---Project1
+|   |       |   +---bin
+|   |       |   |   \---Debug
+|   |       |   \---obj
+|   |       |       \---Debug
+|   |       |           \---TempPE
+|   |       \---Project2
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---Topshiriq02_ismYosh
+|   |   +---ConsoleVersia
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---DialogVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---Topshiriq03_kunHaftaOy
+|   |   +---ConsoleVersia
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   +---DialogVersiya
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---RealizatsiyaComboBox
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---Topshiriq04_oydagiKunlar
+|   |   +---ConsoleVersia
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---DialogVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---Topshiriq05_yoshAniqlash
+|   |   \---ConsoleVersia
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---Topshiriq06_ismYoshAniqlash
+|   |   +---ConsoleVersia
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---DialogVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---Topshiriq07_tugilganYilAniqlash
+|   |   +---ConsoleVersia
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---DialogVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---Topshiriq08_ikkiSonYigindi
+|   |   +---ConsoleVersia
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   +---Debug
+|   |   |       |   \---Release
+|   |   |       \---obj
+|   |   |           +---Debug
+|   |   |           |   \---TempPE
+|   |   |           \---Release
+|   |   \---DialogVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---Topshiriq09_qushniSon
+|   |   +---ConsoleVersia
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---DialogVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   \---Topshiriq10_yigindiAyirma
+|       +---ConsoleVersia
+|       |   \---Project1
+|       |       +---bin
+|       |       |   \---Debug
+|       |       \---obj
+|       |           \---Debug
+|       |               \---TempPE
+|       \---DialogVersiya
+|           \---Project1
+|               +---bin
+|               |   \---Debug
+|               \---obj
+|                   \---Debug
+|                       \---TempPE
++---modul_10Meros
+|   +---Topshiriq_01
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---Topshiriq_02
+|   |   \---Project1
+|   |       +---bin
+|   |       |   +---Debug
+|   |       |   \---Release
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---Topshiriq_03
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---Topshiriq_04
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---Topshiriq_05
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---Topshiriq_06
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---Topshiriq_07
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---Topshiriq_08
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---Topshiriq_09
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   \---Topshiriq_10
+|       \---Project1
+|           +---bin
+|           |   \---Debug
+|           \---obj
+|               \---Debug
+|                   \---TempPE
++---modul_2
+|   +---ConsoleVersia
+|   +---DialogVersiya
+|   +---topshiriq01_3Bulinish
+|   |   +---ConsoleVersia
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---DialogVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---topshiriq02_sonniBulinishTekshirish
+|   |   +---ConsoleVersia
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---DialogVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---topshiriq03_bulinishSharti
+|   |   +---ConsoleVersia
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---DialogVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---topshiriq04_sonDiapason
+|   |   +---ConsoleVersia
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---DialogVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---topshiriq05_sonTarkibiDemo
+|   |   +---ConsoleVersia
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---DialogVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---topshiriq06
+|   |   +---ConsoleVersia
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---DialogVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---topshiriq07
+|   |   +---ConsoleVersia
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---DialogVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---topshiriq08
+|   |   +---ConsoleVersia
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---DialogVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---topshiriq09
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   \---topshiriq10
+|       +---Project1
+|       |   +---bin
+|       |   |   \---Debug
+|       |   \---obj
+|       |       \---Debug
+|       |           \---TempPE
+|       \---Project2
+|           +---bin
+|           |   \---Debug
+|           \---obj
+|               \---Debug
+|                   \---TempPE
++---modul_3
+|   +---topshiriq01_5va7bulinish
+|   |   +---ConsoleVersia
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---DialogVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---topshiriq02_ikkiSonniTaqqos
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq03_yigindilar
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq04_sonHafta
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq05_sonHafta
+|   |   +---IfVersiya
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---SwitchVersiy
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---topshiriq07_kvadratYigindi
+|   |   +---DoWhileVersiya
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   +---ForVersiya
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---WhileVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---topshiriq08_Fibonaci
+|   |   +---DoWhileVersiya
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   +---ForVersiya
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---WhileVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---topshiriq09_MinMaxSon
+|   |   +---DoWhileVersiya
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   +---ForVersiya
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---WhileVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   \---topshiriq10_sonTartiblash
+|       +---DoWhileVersiya
+|       |   \---Project1
+|       |       +---bin
+|       |       |   \---Debug
+|       |       \---obj
+|       |           \---Debug
+|       |               \---TempPE
+|       +---ForVersiya
+|       |   \---Project1
+|       |       +---bin
+|       |       |   \---Debug
+|       |       \---obj
+|       |           \---Debug
+|       |               \---TempPE
+|       \---WhileVersiya
+|           \---Project1
+|               +---bin
+|               |   \---Debug
+|               \---obj
+|                   \---Debug
+|                       \---TempPE
++---modul_4Massiv
+|   +---topshiriq01
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq02
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq03_charBilan
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq04_charBilan
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq05_maxMinSort
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq06_sort
+|   |   +---Project1
+|   |   |   +---bin
+|   |   |   |   \---Debug
+|   |   |   \---obj
+|   |   |       \---Debug
+|   |   |           \---TempPE
+|   |   \---Project2
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq07_sortChar
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq08
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq09
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   \---topshiriq10_Yakuniy
+|       \---Project1
+|           +---bin
+|           |   \---Debug
+|           \---obj
+|               \---Debug
+|                   \---TempPE
++---modul_5Metod
+|   +---objectTip
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---RekrusiyaHaqida
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq01_Factorialmetod
+|   |   +---versiya1
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---versiyaRecrusiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---topshiriq02_kvadratYigindi
+|   |   +---versiya1
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---versiyaRecrusiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---topshiriq03_massivMetod
+|   |   +---Project1
+|   |   |   +---bin
+|   |   |   |   \---Debug
+|   |   |   \---obj
+|   |   |       \---Debug
+|   |   |           \---TempPE
+|   |   +---versiya1
+|   |   \---versiyaRecrusiya
+|   +---topshiriq04_massivKonvert
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq05_metodMassiv
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq06_metodKopMassiv
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq07_metodKopMassiv
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq08_massiv
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq09_metodParam
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   \---topshiriq10_metodParamString
+|       \---Project1
+|           +---bin
+|           |   \---Debug
+|           \---obj
+|               \---Debug
+|                   \---TempPE
++---modul_6Class
+|   +---topshiriq01
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq02
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq03
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq04
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq05
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq06
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq07
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq08
+|   |   +---Project1
+|   |   |   +---bin
+|   |   |   |   \---Debug
+|   |   |   \---obj
+|   |   |       \---Debug
+|   |   |           \---TempPE
+|   |   \---Project10
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq09
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   \---topshiriq10
+|       \---Project1
+|           +---bin
+|           |   \---Debug
+|           \---obj
+|               \---Debug
+|                   \---TempPE
++---modul_7String
+|   +---Topshiriq01
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq02
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq03
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq04
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq05
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq06
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq07
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq08
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---topshiriq09
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   \---topshiriq10
+|       \---Project1
+|           +---bin
+|           |   \---Debug
+|           \---obj
+|               \---Debug
+|                   \---TempPE
++---modul_8OverloadOperator
+|   +---Topshiriq01
+|   |   +---Overloadsiz
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---OverloadVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---Topshiriq02
+|   |   +---Overloadsiz
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---OverloadVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---Topshiriq03
+|   |   +---Overloadsiz
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---OverloadVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---Topshiriq04
+|   |   +---Overloadsiz
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---OverloadVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---Topshiriq05
+|   |   +---overloadsiz
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---OverloadVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---Topshiriq06
+|   |   +---Overloadsiz
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---OverloadVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---Topshiriq07
+|   |   +---Overloadsiz
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---OverloadVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---Topshiriq08
+|   |   +---Overloadsiz
+|   |   |   \---Project1
+|   |   |       +---bin
+|   |   |       |   \---Debug
+|   |   |       \---obj
+|   |   |           \---Debug
+|   |   |               \---TempPE
+|   |   \---OverloadVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   +---Topshiriq09
+|   |   \---OverloadVersiya
+|   |       \---Project1
+|   |           +---bin
+|   |           |   \---Debug
+|   |           \---obj
+|   |               \---Debug
+|   |                   \---TempPE
+|   \---Topshiriq10
+|       +---Overloadsiz
+|       \---OverloadVersiya
+|           \---Project1
+|               +---bin
+|               |   \---Debug
+|               \---obj
+|                   \---Debug
+|                       \---TempPE
++---modul_9XossaVaIndeksatorlar
+|   +---Topshiriq01
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---Topshiriq02
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---Topshiriq03
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---Topshiriq04
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---Topshiriq05
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---Topshiriq06
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---Topshiriq07
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---Topshiriq08
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   +---Topshiriq09
+|   |   \---Project1
+|   |       +---bin
+|   |       |   \---Debug
+|   |       \---obj
+|   |           \---Debug
+|   |               \---TempPE
+|   \---Topshiriq10
+|       \---Project1
+|           +---bin
+|           |   \---Debug
+|           \---obj
+|               \---Debug
+|                   \---TempPE
+\---namunalar
+    +---10_Meros
+    |   +---Listing_01
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_02
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_03
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_04
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_05
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_06
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_07
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_08
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_09
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   \---LIsting_10
+    |       \---Project1
+    |           +---bin
+    |           |   +---Debug
+    |           |   \---Release
+    |           \---obj
+    |               \---Debug
+    |                   \---TempPE
+    +---7_stringModul
+    |   +---metodToString
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---stringCompDemo
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---stringIndexlash
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---stringIzlash
+    |   |   +---.vs
+    |   |   |   \---stringIzlash
+    |   |   |       +---CopilotIndices
+    |   |   |       |   \---17.14.734.62261
+    |   |   |       +---FileContentIndex
+    |   |   |       \---v17
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   +---Debug
+    |   |       |   \---Release
+    |   |       \---obj
+    |   |           +---Debug
+    |   |           |   \---TempPE
+    |   |           \---Release
+    |   +---stringSatrAjrtish
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---stringUzgartirish
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   \---stringYaratish
+    |       \---Project1
+    |           +---bin
+    |           |   \---Debug
+    |           \---obj
+    |               \---Debug
+    |                   \---TempPE
+    +---8_overloadOperator
+    |   +---01OverloadOperatorPlus
+    |   |   +---Project1
+    |   |   |   +---bin
+    |   |   |   |   \---Debug
+    |   |   |   \---obj
+    |   |   |       \---Debug
+    |   |   |           \---TempPE
+    |   |   \---Project2
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---02OverloadOperators
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---03overloadTaqqosash
+    |   |   +---Project1
+    |   |   |   +---bin
+    |   |   |   |   \---Debug
+    |   |   |   \---obj
+    |   |   |       \---Debug
+    |   |   |           \---TempPE
+    |   |   \---Project2
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---04OverloadTenglik
+    |   |   +---Project1
+    |   |   |   +---bin
+    |   |   |   |   \---Debug
+    |   |   |   \---obj
+    |   |   |       \---Debug
+    |   |   |           \---TempPE
+    |   |   \---Project2
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---05OverloadBool
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---06OverloadingMantiqoperator
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---07OverloadConersiyaOperator
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   \---08OverloadingTenglashtirish
+    |       \---Project1
+    |           +---bin
+    |           |   \---Debug
+    |           \---obj
+    |               \---Debug
+    |                   \---TempPE
+    +---9_XossaVaIndeksatorlar
+    |   +---Listing_10IndeksatorGetsiz
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_11ButSonsizIndeksator
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_12IkkiUlchamliIndeksator
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   +---Debug
+    |   |       |   \---Release
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_13IkkiUlchamliIndeksator
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_14KupUlchamliIndeksator
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_15OverloadIndeksator
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_1Xossalar
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   +---Debug
+    |   |       |   \---Release
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_2Xossalar2
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   +---Debug
+    |   |       |   \---Release
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_3SetsizXossa
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   +---Debug
+    |   |       |   \---Release
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_4GetsizXossa
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_5Xossalar3
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_6StaticHossaFibonce
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_7Indeksator
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---Listing_8Indeksator2
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   \---Listing_9IndeksatorSetsiz
+    |       \---Project1
+    |           +---bin
+    |           |   \---Debug
+    |           \---obj
+    |               \---Debug
+    |                   \---TempPE
+    +---chapter_1
+    |   +---01
+    |   |   +---ConsoleProject
+    |   |   |   +---bin
+    |   |   |   |   \---Debug
+    |   |   |   \---obj
+    |   |   |       \---Debug
+    |   |   |           \---TempPE
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---02
+    |   |   +---ConsoleProject
+    |   |   |   +---bin
+    |   |   |   |   \---Debug
+    |   |   |   \---obj
+    |   |   |       \---Debug
+    |   |   |           \---TempPE
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---03
+    |   |   +---ConsoleProject
+    |   |   |   +---bin
+    |   |   |   |   \---Debug
+    |   |   |   \---obj
+    |   |   |       \---Debug
+    |   |   |           \---TempPE
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---04
+    |   +---05
+    |   |   +---consoleProject
+    |   |   |   +---bin
+    |   |   |   |   \---Debug
+    |   |   |   \---obj
+    |   |   |       \---Debug
+    |   |   |           \---TempPE
+    |   |   +---Project1
+    |   |   |   +---bin
+    |   |   |   |   \---Debug
+    |   |   |   \---obj
+    |   |   |       \---Debug
+    |   |   |           \---TempPE
+    |   |   \---Project2
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---06
+    |   +---07
+    |   +---08
+    |   +---09
+    |   \---10
+    +---chapter_2
+    |   +---01
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---02
+    |   |   +---ConsoleProject
+    |   |   |   +---bin
+    |   |   |   |   \---Debug
+    |   |   |   \---obj
+    |   |   |       \---Debug
+    |   |   |           \---TempPE
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---03
+    |   |   +---ConsoleProject
+    |   |   |   +---bin
+    |   |   |   |   \---Debug
+    |   |   |   \---obj
+    |   |   |       \---Debug
+    |   |   |           \---TempPE
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---04
+    |   +---05
+    |   |   +---consoleProject
+    |   |   |   +---bin
+    |   |   |   |   \---Debug
+    |   |   |   \---obj
+    |   |   |       \---Debug
+    |   |   |           \---TempPE
+    |   |   +---Project1
+    |   |   |   +---bin
+    |   |   |   |   \---Debug
+    |   |   |   \---obj
+    |   |   |       \---Debug
+    |   |   |           \---TempPE
+    |   |   \---Project2
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---06
+    |   +---07
+    |   +---08
+    |   +---09
+    |   \---10
+    +---chapter_3
+    |   +---01
+    |   +---02
+    |   +---03
+    |   +---04
+    |   +---05
+    |   +---06
+    |   +---07
+    |   +---08
+    |   +---09
+    |   +---10
+    |   \---examples
+    |       +---Examole1
+    |       |   +---bin
+    |       |   |   \---Debug
+    |       |   \---obj
+    |       |       \---Debug
+    |       |           \---TempPE
+    |       +---Project1
+    |       |   +---bin
+    |       |   |   \---Debug
+    |       |   \---obj
+    |       |       \---Debug
+    |       |           \---TempPE
+    |       +---Project2
+    |       |   +---bin
+    |       |   |   \---Debug
+    |       |   \---obj
+    |       |       \---Debug
+    |       |           \---TempPE
+    |       \---ProjectFibonacce
+    |           +---bin
+    |           |   \---Debug
+    |           \---obj
+    |               \---Debug
+    |                   \---TempPE
+    +---chapteк_4
+    |   +---01
+    |   +---02
+    |   +---03
+    |   +---04
+    |   +---05
+    |   +---06
+    |   +---07
+    |   +---08
+    |   +---09
+    |   +---10
+    |   \---examples
+    |       +---ForeachDemo
+    |       |   +---bin
+    |       |   |   \---Debug
+    |       |   \---obj
+    |       |       \---Debug
+    |       |           \---TempPE
+    |       +---HarHilO'lchamliMassiv
+    |       |   +---bin
+    |       |   |   +---Debug
+    |       |   |   \---Release
+    |       |   \---obj
+    |       |       \---Debug
+    |       |           \---TempPE
+    |       +---InitTwoDimArray
+    |       |   +---bin
+    |       |   |   \---Debug
+    |       |   \---obj
+    |       |       \---Debug
+    |       |           \---TempPE
+    |       +---KopOlchamliMassiv
+    |       |   +---bin
+    |       |   |   \---Debug
+    |       |   \---obj
+    |       |       \---Debug
+    |       |           \---TempPE
+    |       +---MaxElementDEmo
+    |       |   +---bin
+    |       |   |   \---Debug
+    |       |   \---obj
+    |       |       \---Debug
+    |       |           \---TempPE
+    |       +---ObjectArrayDemo
+    |       |   +---bin
+    |       |   |   \---Debug
+    |       |   \---obj
+    |       |       \---Debug
+    |       |           \---TempPE
+    |       +---ProArgsDemo
+    |       |   +---bin
+    |       |   |   \---Debug
+    |       |   \---obj
+    |       |       \---Debug
+    |       |           \---TempPE
+    |       +---Project1
+    |       |   +---bin
+    |       |   |   \---Debug
+    |       |   \---obj
+    |       |       \---Debug
+    |       |           \---TempPE
+    |       +---Project2
+    |       |   +---bin
+    |       |   |   \---Debug
+    |       |   \---obj
+    |       |       \---Debug
+    |       |           \---TempPE
+    |       +---SortArrayDemoApp
+    |       |   +---bin
+    |       |   |   \---Debug
+    |       |   \---obj
+    |       |       \---Debug
+    |       |           \---TempPE
+    |       +---Task4.1
+    |       |   +---bin
+    |       |   |   +---Debug
+    |       |   |   \---Release
+    |       |   \---obj
+    |       |       \---Debug
+    |       |           \---TempPE
+    |       +---task4_5MinElementDemo
+    |       |   +---bin
+    |       |   |   \---Debug
+    |       |   \---obj
+    |       |       \---Debug
+    |       |           \---TempPE
+    |       +---Task_3
+    |       |   +---bin
+    |       |   |   \---Debug
+    |       |   \---obj
+    |       |       \---Debug
+    |       |           \---TempPE
+    |       +---Task_4.2
+    |       |   +---bin
+    |       |   |   \---Debug
+    |       |   \---obj
+    |       |       \---Debug
+    |       |           \---TempPE
+    |       +---task_4.4
+    |       |   +---bin
+    |       |   |   +---Debug
+    |       |   |   \---Release
+    |       |   \---obj
+    |       |       \---Debug
+    |       |           \---TempPE
+    |       \---TwoDimArrayDemo
+    |           +---bin
+    |           |   \---Debug
+    |           \---obj
+    |               \---Debug
+    |                   \---TempPE
+    +---classAndObjects
+    |   +---ClassMethodDemo
+    |   |   +---bin
+    |   |   |   \---Debug
+    |   |   \---obj
+    |   |       \---Debug
+    |   |           \---TempPE
+    |   +---ConstructorDemo
+    |   |   +---bin
+    |   |   |   +---Debug
+    |   |   |   \---Release
+    |   |   \---obj
+    |   |       +---Debug
+    |   |       |   \---TempPE
+    |   |       \---Release
+    |   +---destructorDemo
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   +---ObyektTenglash
+    |   |   +---bin
+    |   |   |   +---Debug
+    |   |   |   \---Release
+    |   |   \---obj
+    |   |       \---Debug
+    |   |           \---TempPE
+    |   +---staticClass
+    |   |   +---Project1
+    |   |   |   +---bin
+    |   |   |   |   \---Debug
+    |   |   |   \---obj
+    |   |   |       \---Debug
+    |   |   |           \---TempPE
+    |   |   \---Project2
+    |   |       +---bin
+    |   |       |   +---Debug
+    |   |       |   \---Release
+    |   |       \---obj
+    |   |           +---Debug
+    |   |           |   \---TempPE
+    |   |           \---Release
+    |   +---usingObjectsDemo
+    |   |   +---bin
+    |   |   |   \---Debug
+    |   |   \---obj
+    |   |       \---Debug
+    |   |           \---TempPE
+    |   +---usingPrivateMethod
+    |   |   \---Project1
+    |   |       +---bin
+    |   |       |   \---Debug
+    |   |       \---obj
+    |   |           \---Debug
+    |   |               \---TempPE
+    |   \---usingThis
+    |       +---Project1
+    |       |   +---bin
+    |       |   |   \---Debug
+    |       |   \---obj
+    |       |       \---Debug
+    |       |           \---TempPE
+    |       \---Project2
+    |           +---bin
+    |           |   \---Debug
+    |           \---obj
+    |               \---Debug
+    |                   \---TempPE
+    \---staticMethod
+        +---ArrayFromMethodDemo
+        |   +---bin
+        |   |   +---Debug
+        |   |   \---Release
+        |   \---obj
+        |       \---Debug
+        |           \---TempPE
+        +---ArrayToMethodDemo
+        |   +---bin
+        |   |   \---Debug
+        |   \---obj
+        |       \---Debug
+        |           \---TempPE
+        +---MetodUzatma_ArgsDemo
+        |   +---bin
+        |   |   \---Debug
+        |   \---obj
+        |       \---Debug
+        |           \---TempPE
+        +---MetodUzatma_RefArgsDemo
+        |   +---bin
+        |   |   \---Debug
+        |   \---obj
+        |       \---Debug
+        |           \---TempPE
+        +---MyAndroidApp1
+        |   +---bin
+        |   |   \---Debug
+        |   |       \---net8.0-android
+        |   +---obj
+        |   |   \---Debug
+        |   |       \---net8.0-android
+        |   |           +---android
+        |   |           |   +---assets
+        |   |           |   |   +---arm64-v8a
+        |   |           |   |   +---armeabi-v7a
+        |   |           |   |   +---x86
+        |   |           |   |   \---x86_64
+        |   |           |   +---bin
+        |   |           |   |   \---classes
+        |   |           |   |       +---com
+        |   |           |   |       |   \---companyname
+        |   |           |   |       |       \---myandroidapp1
+        |   |           |   |       +---crc647f1e33268218a575
+        |   |           |   |       \---mono
+        |   |           |   |           \---android
+        |   |           |   |               \---app
+        |   |           |   +---manifest
+        |   |           |   \---src
+        |   |           |       +---com
+        |   |           |       |   \---companyname
+        |   |           |       |       \---myandroidapp1
+        |   |           |       +---crc647f1e33268218a575
+        |   |           |       \---mono
+        |   |           |           \---android
+        |   |           |               \---app
+        |   |           +---android-arm
+        |   |           +---android-arm64
+        |   |           +---android-x64
+        |   |           +---android-x86
+        |   |           +---app_shared_libraries
+        |   |           |   +---arm64-v8a
+        |   |           |   +---armeabi-v7a
+        |   |           |   +---x86
+        |   |           |   \---x86_64
+        |   |           +---designtime
+        |   |           +---flat
+        |   |           +---flata
+        |   |           +---lp
+        |   |           +---res
+        |   |           |   +---layout
+        |   |           |   +---mipmap-anydpi-v26
+        |   |           |   +---mipmap-hdpi
+        |   |           |   +---mipmap-mdpi
+        |   |           |   +---mipmap-xhdpi
+        |   |           |   +---mipmap-xxhdpi
+        |   |           |   +---mipmap-xxxhdpi
+        |   |           |   \---values
+        |   |           +---resourcecache
+        |   |           |   \---designer-resources
+        |   |           \---stamp
+        |   \---Resources
+        |       +---layout
+        |       +---mipmap-anydpi-v26
+        |       +---mipmap-hdpi
+        |       +---mipmap-mdpi
+        |       +---mipmap-xhdpi
+        |       +---mipmap-xxhdpi
+        |       +---mipmap-xxxhdpi
+        |       \---values
+        +---OverLoadMethodDemo
+        |   +---bin
+        |   |   \---Debug
+        |   \---obj
+        |       \---Debug
+        |           \---TempPE
+        +---ParamsDemo
+        |   +---bin
+        |   |   \---Debug
+        |   \---obj
+        |       \---Debug
+        |           \---TempPE
+        +---RecursionDemo
+        |   +---bin
+        |   |   \---Debug
+        |   \---obj
+        |       \---Debug
+        |           \---TempPE
+        +---StatMethodDemo
+        |   +---bin
+        |   |   +---Debug
+        |   |   \---Release
+        |   \---obj
+        |       +---Debug
+        |       |   \---TempPE
+        |       \---Release
+        \---UsingOutDemo
+            +---bin
+            |   +---Debug
+            |   \---Release
+            \---obj
+                \---Debug
+                    \---TempPE

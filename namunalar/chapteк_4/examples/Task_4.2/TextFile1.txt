@@ -1,0 +1,17 @@
+﻿Напишите программу, в которой создается массив из 11 целочисленных элементов.
+Массив заполняется степенями двойки — числами
+2pow 0 = 1, 
+2pow 1= 2, 
+2pow 2= 4, 
+2pow 3 = 8 и так далее до 2pow10 = 1024. При заполнении массива учесть,
+что начальный элемент равен 1, а каждый следующий больше
+предыдущего в 2 раза. Отобразить массив в консольном окне в прямом
+и обратном порядке. Размер массива задается переменной.
+
+11 ta butun son elementdan iborat massiv yaratuvchi dastur tuzing. Massiv ikki raqamning vakolatlari bilan to'ldirilgan
+2pow 0 = 1, 
+2pow 1= 2, 
+2pow 2= 4, 
+2pow 3 = 8 8 va shunga o'xshash 210 = 1024. Massivni to'ldirganda, boshlang'ich element 1 ga teng va har bir keyingi element kattaroq ekanligini hisobga oling.
+oldingisidan 2 marta. Massivni to'g'ridan-to'g'ri konsol oynasida ko'rsatish
+va teskari tartibda. Massivning o'lchami o'zgaruvchi bilan belgilanadi.

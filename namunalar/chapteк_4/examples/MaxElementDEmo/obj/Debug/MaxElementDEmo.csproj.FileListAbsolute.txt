@@ -1,0 +1,7 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\MaxElementDEmo\bin\Debug\MaxElementDEmo.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\MaxElementDEmo\bin\Debug\MaxElementDEmo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\MaxElementDEmo\bin\Debug\MaxElementDEmo.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\MaxElementDEmo\obj\Debug\MaxElementDEmo.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\MaxElementDEmo\obj\Debug\MaxElementDEmo.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\MaxElementDEmo\obj\Debug\MaxElementDEmo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\MaxElementDEmo\obj\Debug\MaxElementDEmo.pdb

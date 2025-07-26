@@ -1,0 +1,7 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\task4_5MinElementDemo\bin\Debug\task4_5MinElementDemo.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\task4_5MinElementDemo\bin\Debug\task4_5MinElementDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\task4_5MinElementDemo\bin\Debug\task4_5MinElementDemo.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\task4_5MinElementDemo\obj\Debug\task4_5MinElementDemo.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\task4_5MinElementDemo\obj\Debug\task4_5MinElementDemo.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\task4_5MinElementDemo\obj\Debug\task4_5MinElementDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\task4_5MinElementDemo\obj\Debug\task4_5MinElementDemo.pdb

@@ -1,0 +1,15 @@
+﻿Dastur yozing. Unda quyidagilar bo‘ladi:
+
+Klassda yopiq (private) musbat butun sonli maydon bo‘lsin.
+
+Yana bitta yopiq matnli (string) maydon bo‘lsin, u butun sonning sakkizlik (octal) ko‘rinishini saqlasin.
+
+Klassda faqat yozish (set) mumkin bo‘lgan property bo‘lsin.
+
+Undan musbat butun son qiymat kiritilganda, bu son:
+
+birinchi (butun sonli) maydonga yoziladi,
+
+ikkinchi (matnli) maydonga esa shu sonning sakkizlik sanoq sistemasidagi ko‘rinishi yoziladi.
+
+Klassda faqat o‘qish (get) mumkin bo‘lgan property bo‘lsin, u matnli maydonni (ya’ni, sakkizlik ko‘rinishni) qaytarsin.

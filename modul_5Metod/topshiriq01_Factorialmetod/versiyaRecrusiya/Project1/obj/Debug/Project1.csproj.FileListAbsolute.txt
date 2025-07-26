@@ -1,0 +1,7 @@
+D:\my_projects\topshiriqlarC#\modul_5Metod\topshiriq01_Factorialmetod\versiyaRecrusiya\Project1\bin\Debug\Project1.exe.config
+D:\my_projects\topshiriqlarC#\modul_5Metod\topshiriq01_Factorialmetod\versiyaRecrusiya\Project1\bin\Debug\Project1.exe
+D:\my_projects\topshiriqlarC#\modul_5Metod\topshiriq01_Factorialmetod\versiyaRecrusiya\Project1\bin\Debug\Project1.pdb
+D:\my_projects\topshiriqlarC#\modul_5Metod\topshiriq01_Factorialmetod\versiyaRecrusiya\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+D:\my_projects\topshiriqlarC#\modul_5Metod\topshiriq01_Factorialmetod\versiyaRecrusiya\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\my_projects\topshiriqlarC#\modul_5Metod\topshiriq01_Factorialmetod\versiyaRecrusiya\Project1\obj\Debug\Project1.exe
+D:\my_projects\topshiriqlarC#\modul_5Metod\topshiriq01_Factorialmetod\versiyaRecrusiya\Project1\obj\Debug\Project1.pdb

@@ -1,0 +1,20 @@
+﻿3-topshiriq
+
+Quyidagi funksiyalarni o‘z ichiga olgan dastur tuzing:
+
+1. Asosiy (baza) klass:
+   - Ochiq (public) maydon mavjud bo‘ladi, u butun sonlar (int) massiviga havola (reference) bo‘ladi.
+   - Klass konstruktori massivga havola qabul qiladi.
+   - Konstruktor massivdan nusxa yaratadi (ya’ni yangi massivga o‘tkazadi), va bu yangi massiv obyekt maydoniga yoziladi.
+   - ToString() metodi qayta aniqlanadi (override).
+     → U massiv elementlari qiymatlarini o‘z ichiga olgan matnli (string) ko‘rinishni qaytaradi.
+
+2. Hosila (merosxo‘r) klass:
+   - Asosiy klassdan meros oladi.
+   - Bu klassda yana bitta ochiq maydon bo‘ladi – u belgilar (char) massiviga havola bo‘ladi.
+   - Hosila klass konstruktori ikkita havola qabul qiladi:
+     → butun sonlar (int[]) massivi
+     → belgilar (char[]) massivi
+   - Konstruktor ikkala massivdan ham nusxa yaratadi va ularni mos maydonlarga yozadi.
+   - ToString() metodi bu klassda ham qayta aniqlanadi.
+     → U ikkala massiv elementlarini o‘z ichiga olgan matnli ko‘rinishni qaytaradi.

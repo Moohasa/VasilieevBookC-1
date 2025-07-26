@@ -1,0 +1,32 @@
+﻿ 1. Bazaviy klass (Base)
+protected matnli maydon bo‘ladi: protected string text;
+
+virtual property bo‘ladi:
+
+get — text maydonini qaytaradi
+
+set — text maydoniga qiymat yozadi
+
+ToString() — "Base klass: " + text ni qaytaradi
+
+🔹 2. Hosilaviy klass (MyClass)
+Yana bitta text maydon qo‘shiladi: protected string text2;
+
+Property override qilinadi:
+
+get — text + " " + text2 (ikkisini birlashtiradi)
+
+set — qiymatni " " bo‘yicha ikki qismga ajratadi:
+
+Birinchi qism text ga,
+
+Ikkinchi qism text2 ga beriladi
+
+Agar bo‘sh joy (space) topilmasa:
+
+text = value
+
+text2 = "" bo‘ladi
+
+ToString() — "MyClass: " + text + , + text2 ni qaytaradi
+

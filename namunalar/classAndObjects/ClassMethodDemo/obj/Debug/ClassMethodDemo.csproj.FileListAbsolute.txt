@@ -1,0 +1,7 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ClassMethodDemo\bin\Debug\ClassMethodDemo.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ClassMethodDemo\bin\Debug\ClassMethodDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ClassMethodDemo\bin\Debug\ClassMethodDemo.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ClassMethodDemo\obj\Debug\ClassMethodDemo.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ClassMethodDemo\obj\Debug\ClassMethodDemo.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ClassMethodDemo\obj\Debug\ClassMethodDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ClassMethodDemo\obj\Debug\ClassMethodDemo.pdb

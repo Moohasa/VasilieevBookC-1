@@ -1,0 +1,13 @@
+﻿. Напишите программу, в которой создается символьный массив
+из 10 элементов. Массив заполнить большими (прописными) буквами английского алфавита.
+Буквы берутся подряд, но только согласные
+(то есть гласные буквы 'A','E' и 'I' при присваивании значений 
+элементам массива нужно пропустить). Отобразите содержимое созданного
+массива в консольном окн
+
+. 10 ta elementdan iborat belgilar massivini yaratuvchi dastur yozing. 
+Massivni ingliz alifbosining katta (katta) harflari bilan to'ldiring. 
+Harflar bir qatorda olinadi, lekin faqat undoshlar 
+(ya'ni, massiv elementlariga qiymatlarni belgilashda 
+"A", "E" va "I" unlilari o'tkazib yuborilishi kerak). 
+Konsol oynasida yaratilgan massiv tarkibini ko'rsating

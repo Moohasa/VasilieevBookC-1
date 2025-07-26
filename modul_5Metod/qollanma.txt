@@ -1,0 +1,171 @@
+❓ Nima?
+Statik metodlar — bu sinfga bog‘langan metodlar bo‘lib, ular obyekt yaratilmasdan turib chaqiriladi.
+
+⭐ Xususiyatlari:
+static kalit so‘zi bilan e’lon qilinadi.
+
+Obyektsiz chaqiriladi: ClassName.MethodName().
+
+Faqat statik o‘zgaruvchilar va statik metodlar bilan ishlaydi.
+
+Odatda yordamchi (utility) funksiyalar uchun ishlatiladi (masalan: Math.Sqrt()).
+
+🔧 Misol:
+
+public class MathHelper
+{
+    public static int Square(int x)
+    {
+        return x * x;
+    }
+}
+
+// Ishlatish:
+int result = MathHelper.Square(5); // natija: 25
+
+📌 2. Statik metodlarni e’lon qilish prinsiplari
+📌 Qoidalar:
+static kalit so‘zidan foydalaniladi.
+
+Agar metod sinfga tegishli bo‘lib, holat (state) saqlamasa, uni statik qilish tavsiya etiladi.
+
+Faqat boshqa statik a’zolar bilan to‘g‘ridan-to‘g‘ri ishlay oladi
+
+
+
+
+
+public class Logger
+{
+    public static void Print(string message)
+    {
+        Console.WriteLine("Log: " + message);
+    }
+}
+
+ 3. Statik metodlarni overload qilish (ya'ni, bir nomli metodlarni turli parametrlarda yaratish)
+❓ Overloading nima?
+Bir nechta metodlar bir xil nomga ega, lekin turli parametrlar soni yoki turlari bo‘lishi.
+
+public class Calculator
+{
+    public static int Add(int a, int b)
+    {
+        return a + b;
+    }
+
+    public static double Add(double a, double b)
+    {
+        return a + b;
+    }
+
+    public static int Add(int a, int b, int c)
+    {
+        return a + b + c;
+    }
+}
+4. Statik metodga massivni parametr sifatida uzatish
+🔧 Misol:
+
+public class ArrayHelper
+{
+    public static void PrintAll(int[] numbers)
+    {
+        foreach (int n in numbers)
+        {
+            Console.WriteLine(n);
+        }
+    }
+}
+
+// Ishlatish:
+ArrayHelper.PrintAll(new int[] {1, 2, 3, 4});
+
+📌 5. Natijasi massiv bo‘lgan metodlar
+🔧 Misol:
+
+public class Generator
+{
+    public static int[] GetEvenNumbers(int max)
+    {
+        List<int> list = new List<int>();
+        for (int i = 0; i <= max; i++)
+        {
+            if (i % 2 == 0) list.Add(i);
+        }
+        return list.ToArray();
+    }
+}
+
+
+📌 6. Argumentlarni metodga uzatish mexanizmlari
+🔑 Variantlar:
+Usul	Tavsif
+By value (default)	Nusxasi uzatiladi, o‘zgartirish metoddan tashqariga ta’sir qilmaydi
+ref	Haqiqiy o‘zgaruvchi uzatiladi, qiymatni o‘zgartirish mumkin
+out	Qiymat metodda berilishi kerak, tashqariga chiqariladi
+in	Faqat o‘qish uchun, metod ichida o‘zgartirib bo‘lmaydi
+
+🔧 Misollar:
+
+
+
+public static void Increment(ref int x)
+{
+    x++;
+}
+
+public static void GetValues(out int a, out int b)
+{
+    a = 10;
+    b = 20;
+}
+
+ 7. Rekursiv metodlar
+❓ Nima?
+Metod o‘zini o‘zida chaqiradi.
+
+public class RecursionHelper
+{
+    public static int Factorial(int n)
+    {
+        if (n <= 1) return 1;
+        return n * Factorial(n - 1);
+    }
+}
+
+
+
+8. Ixtiyoriy sondagi argumentlar (params kalit so‘zi)
+❓ Nima?
+Foydalanuvchi istalgancha parametr uzatishi mumkin.
+
+🔧 Misol:
+
+
+public class Stats
+{
+    public static double Average(params int[] numbers)
+    {
+        int sum = 0;
+        foreach (int n in numbers) sum += n;
+        return (double)sum / numbers.Length;
+    }
+}
+
+// Ishlatish:
+double avg = Stats.Average(10, 20, 30, 40); // 25.0
+
+
+✅ Yakuniy tavsiyalar:
+Statik metodlar "universal yordamchi" funksiyalar uchun juda qulay.
+
+Agar metod sinf holatiga bog‘liq bo‘lmasa — uni statik qiling.
+
+Massivlar bilan ishlashda params, ref, out va rekursiya mexanizmlarini yaxshi tushunish kerak.
+
+Agar xohlasangiz, ushbu qo‘llanmani PDF shaklida yoki .docx formatda berishim ham mumkin. Shu bilan birga, har bir mavzu bo‘yicha alohida darslik yozish yoki kod amaliyotlar bilan boyitish ham mumkin. Ayting, qanday davom etamiz?
+
+
+
+

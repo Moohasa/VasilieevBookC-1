@@ -1,0 +1,21 @@
+Topshiriq talablari:
+Klassda bitta simvol maydoni bor.
+
+Operatorlar:
+
++ operatori: ikkita obyekt qo‘shilganda, natijada ularning simvol maydonlari matn sifatida birlashtiriladi (string).
+
+- operatori: ikkita obyekt ayirilganda, natijada ularning simvollari ASCII kodlari farqi (int) qaytadi.
+
+Shuningdek, operatorlarni konvertatsiya uchun (приведение типа) overload qilish kerak, shunda:
+
++= va
+
+-= operatorlari ishlatish mumkin bo‘lsin.
+
+Muhim eslatma:
+C# da += va -= operatorlari aslida + va - operatorlari orqali ishlaydi (ya’ni a += b -> a = a + b).
+
+Shu sababdan, siz faqat + va - operatorlarini overload qilasiz.
+
+Shuningdek, "operator overload" deb yozilgan "приведение типа" (casting) operatorlari uchun ham overload kiritish talab qilinsa, alohida qilamiz.

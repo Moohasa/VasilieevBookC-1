@@ -1,0 +1,7 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\OverLoadMethodDemo\bin\Debug\OverLoadMethodDemo.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\OverLoadMethodDemo\bin\Debug\OverLoadMethodDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\OverLoadMethodDemo\bin\Debug\OverLoadMethodDemo.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\OverLoadMethodDemo\obj\Debug\OverLoadMethodDemo.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\OverLoadMethodDemo\obj\Debug\OverLoadMethodDemo.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\OverLoadMethodDemo\obj\Debug\OverLoadMethodDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\OverLoadMethodDemo\obj\Debug\OverLoadMethodDemo.pdb

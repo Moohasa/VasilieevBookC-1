@@ -1,0 +1,23 @@
+﻿5-topshiriq
+
+Zanjirli meros (inheritance) asosida 3 ta klassdan iborat dastur tuzing:
+
+1. Birinchi klass:
+   - Ochiq (public) belgili (`char`) maydonga ega bo‘ladi.
+   - 2 xil konstruktor bo‘ladi:
+     a) Oddiy konstruktor – `char` qiymat qabul qiladi va maydonga yozadi.
+     b) Nusxalovchi konstruktor – boshqa obyektdan qiymatni olib, yangi obyekt yaratadi.
+
+2. Ikkinchi klass:
+   - Birinchi klassdan meros oladi.
+   - Ochiq matnli (`string`) maydonga ega bo‘ladi.
+   - 2 xil konstruktor bo‘ladi:
+     a) Oddiy konstruktor – `char` va `string` qiymatlarni qabul qiladi.
+     b) Nusxalovchi konstruktor – boshqa obyektdan qiymatlarni olib, yangi obyekt yaratadi.
+
+3. Uchinchi klass:
+   - Ikkinchi klassdan meros oladi.
+   - Ochiq butun sonli (`int`) maydonga ega bo‘ladi.
+   - 2 xil konstruktor bo‘ladi:
+     a) Oddiy konstruktor – `char`, `string`, `int` qiymatlarni qabul qiladi.
+     b) Nusxalovchi konstruktor – boshqa obyektdan qiymatlarni olib, yangi obyekt yaratadi.

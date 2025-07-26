@@ -1,0 +1,25 @@
+﻿✅ 1. Bazaviy klass (masalan: Alpha)
+Maydonlar:
+protected int[] nums — butun sonlar massivi
+
+Xususiyatlar (properties):
+public virtual int Length (yoki Size) — nums.Length ni qaytaradi
+
+Indeksator:
+public int this[int i] — nums[i] ni o‘qish va yozish imkonini beradi
+
+✅ 2. Hosila klass (masalan: Bravo)
+Yangi maydon:
+protected char[] letters — belgilar massivi
+
+Indeksator:
+public char this[char c] — masalan, this['b'] = 'z'; va Console.WriteLine(obj['b'])
+
+(c belgini ASCII yoki indeks sifatida ishlatish mumkin — masalan, 'a' = 0, 'b' = 1, va hokazo)
+
+Property Length ni yashirib (new) quyidagicha o‘zgartirasiz:
+public new int[] Length — ikkita sonli massiv:
+
+nums.Length
+
+letters.Length

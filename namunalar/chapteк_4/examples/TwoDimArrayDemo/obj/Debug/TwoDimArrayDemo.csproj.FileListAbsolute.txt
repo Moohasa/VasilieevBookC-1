@@ -1,0 +1,7 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\TwoDimArrayDemo\bin\Debug\TwoDimArrayDemo.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\TwoDimArrayDemo\bin\Debug\TwoDimArrayDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\TwoDimArrayDemo\bin\Debug\TwoDimArrayDemo.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\TwoDimArrayDemo\obj\Debug\TwoDimArrayDemo.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\TwoDimArrayDemo\obj\Debug\TwoDimArrayDemo.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\TwoDimArrayDemo\obj\Debug\TwoDimArrayDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapteк_4\examples\TwoDimArrayDemo\obj\Debug\TwoDimArrayDemo.pdb

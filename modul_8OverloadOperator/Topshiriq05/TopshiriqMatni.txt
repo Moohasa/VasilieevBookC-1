@@ -1,0 +1,17 @@
+Dastur yozing. Unda bitta butun sonli va simvol (char) tipidagi maydonlar mavjud bo‘lgan klass bo‘lsin.
+Klassda true va false operatorlari overload qilinsin.
+Quyidagi qoida asosida:
+
+Agar butun son va simvol kodi orasidagi farq 10 dan katta bo‘lmasa, bu obyekt “true” deb qaraladi.
+
+Aks holda — false.
+
+Ushbu klass obyektidan shart operatori (if) ichida foydalaning va shart bajarilganda simvollar ketma-ketligini konsolga chiqaring.
+🔹 Masalan:
+Agar:
+
+intField = 80
+
+charField = 'K' (charCode = 75)
+
+|80 - 75| = 5 → 10 dan kichik ⇒ true

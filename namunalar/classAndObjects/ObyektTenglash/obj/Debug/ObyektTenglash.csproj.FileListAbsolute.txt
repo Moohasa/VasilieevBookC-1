@@ -1,0 +1,7 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ObyektTenglash\bin\Debug\ObyektTenglash.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ObyektTenglash\bin\Debug\ObyektTenglash.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ObyektTenglash\bin\Debug\ObyektTenglash.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ObyektTenglash\obj\Debug\ObyektTenglash.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ObyektTenglash\obj\Debug\ObyektTenglash.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ObyektTenglash\obj\Debug\ObyektTenglash.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\classAndObjects\ObyektTenglash\obj\Debug\ObyektTenglash.pdb

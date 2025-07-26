@@ -1,0 +1,9 @@
+﻿Dastur yozing. Unda bitta klass bo‘lsin, u statik property ga ega bo‘lsin.
+
+Agar get (o‘qish) bajarilsa, natija har safar yangi toq son bo‘lsin:
+— birinchi safar: 1,
+— ikkinchi safar: 3,
+— uchinchi safar: 5 va hokazo.
+
+Agar set (qiymat berish) bajarilsa — bu qiymat qaysi tartib raqamdagi toq son bo‘lishini bildiradi.
+Masalan, obj.Value = 5 bo‘lsa, undan keyingi get chaqirilganda 9 chiqadi (5-chi toq son: 1,3,5,7,9).

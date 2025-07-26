@@ -1,0 +1,3 @@
+MyAndroidApp1.MainActivity, MyAndroidApp1;crc647f1e33268218a575.MainActivity
+MyAndroidApp1.MainActivity;crc647f1e33268218a575.MainActivity
+myandroidapp1.MainActivity;crc647f1e33268218a575.MainActivity

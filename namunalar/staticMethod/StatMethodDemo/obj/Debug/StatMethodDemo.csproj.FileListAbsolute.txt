@@ -1,0 +1,7 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\StatMethodDemo\bin\Debug\StatMethodDemo.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\StatMethodDemo\bin\Debug\StatMethodDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\StatMethodDemo\bin\Debug\StatMethodDemo.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\StatMethodDemo\obj\Debug\StatMethodDemo.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\StatMethodDemo\obj\Debug\StatMethodDemo.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\StatMethodDemo\obj\Debug\StatMethodDemo.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\staticMethod\StatMethodDemo\obj\Debug\StatMethodDemo.pdb

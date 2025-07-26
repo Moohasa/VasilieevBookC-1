@@ -1,0 +1,6 @@
+﻿Vazifa:
+Klass ichida butun sonlar massiv bo‘ladi.
+
+Klassda faqat o‘qish uchun (read-only) property (xususiyat) bo‘ladi.
+
+Bu property qiymati — massiv elementlarining yig‘indisi bo‘ladi.

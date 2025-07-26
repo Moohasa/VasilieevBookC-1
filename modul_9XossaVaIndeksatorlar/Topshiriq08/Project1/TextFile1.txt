@@ -1,0 +1,44 @@
+﻿Klass yarating, unda manfiy bo‘lmagan butun sonli (int) maydon bo‘lsin.
+
+Klassda indeksator (this[int index]) bo‘lsin, lekin faqat set bilan (faqat qiymat yozish).
+
+Foydalanuvchi obj[i] = son; deganda:
+
+son % 10 olinadi → ya’ni oxirgi raqam
+
+i — bu qaysi razryadga yoziladi (0 → birliklar, 1 → o‘nliklar, 2 → yuzliklar...)
+
+Eski qiymatdagi boshqa raqamlar o‘zgarmasdan qoladi, faqat berilgan razryad yangilanadi.
+
+Agar number = 1234 va siz yozsangiz:
+
+
+obj[2] = 57;
+Unda:
+
+son = 57 → 7 olinadi
+
+razryad = 2 → bu 100 razryadi
+
+number endi bo‘ladi 1274 (1234da 100 razryadi 2 edi, endi 7 bo‘ldi)
+
+Klass nomi: MyClass
+
+private int number;
+
+Konstruktor: MyClass(int n) — boshlang‘ich qiymat
+
+public int this[int index] — faqat set
+
+value % 10 orqali yangi raqam ajratish
+
+Eski number ichidan kerakli razryadni o‘chirish va yangisini qo‘shish
+
+Bu uchun:
+
+oldDigit = (number / pow(10, i)) % 10
+
+number -= oldDigit * pow(10, i) // eski raqamni o‘chirish
+
+number += newDigit * pow(10, i) // yangi raqamni qo‘shish
+

@@ -1,0 +1,7 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_1\05\consoleProject\bin\Debug\consoleProject.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_1\05\consoleProject\bin\Debug\consoleProject.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_1\05\consoleProject\bin\Debug\consoleProject.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_1\05\consoleProject\obj\Debug\consoleProject.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_1\05\consoleProject\obj\Debug\consoleProject.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_1\05\consoleProject\obj\Debug\consoleProject.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_1\05\consoleProject\obj\Debug\consoleProject.pdb

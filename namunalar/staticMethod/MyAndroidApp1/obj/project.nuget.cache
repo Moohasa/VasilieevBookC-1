@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VkPKcrvPnUGnYOSh+NT/wu3lUyS/Zx30TkxIjqSjjSjPfqHQZZOKkx+evEp3EAPmzsioEkj83lWoeiTPKxfr5g==",
+  "success": true,
+  "projectFilePath": "D:\\МОЙ ПЕРЕВОД\\N.Vasilev_Tasks\\staticMethod\\MyAndroidApp1\\MyAndroidApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hasan\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

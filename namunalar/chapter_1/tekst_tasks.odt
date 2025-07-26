@@ -1,0 +1,46 @@
+RU
+
+1. Напишите программу, в которой пользователь вводит сначала имя,
+а затем фамилию. Программа выводит сообщение с информацией
+об имени и фамилии пользователя. Предложите версию программы,
+в которой ввод и вывод текста осуществляется с помощью диалоговых
+окон. Также предложите консольную версию программы.
+2. Напишите программу, в которой пользователь вводит имя и возраст.
+Программа отображает сообщение об имени и возрасте пользователя.
+Предложите консольную версию программы и версию, в которой данные вводятся и выводятся с помощью диалоговых окон.
+3. Напишите программу, в которой пользователь последовательно вводит название текущего дня недели, название месяца и дату (номер дня
+в месяце). Программа выводит сообщение о сегодняшней дате (день
+недели, дата, месяц). Используйте консольный ввод и вывод данных.
+Предложите версию программы, в которой для ввода и вывода данных
+используются диалоговые окна.
+4. Напишите программу, в которой пользователю предлагается ввести
+название месяца и количество дней в этом месяце. Программа выводит
+сообщение о том, что соответствующий месяц содержит указанное количество дней. Предложите версии программы для ввода/вывода данных
+через консоль и с помощью диалоговых окон.
+5. Напишите программу, в которой по году рождения определяется возраст пользователя. Используйте консольный ввод и вывод данных.
+6. Напишите программу, в которой пользователь водит имя и год рождения, а программа отображает сообщение, содержащее имя пользователя
+и его возраст. Предложите консольную версию программы, а также версию программы, в которой ввод и вывод данных выполняется с помощью диалоговых окон.
+7. Напишите программу, в которой по возрасту определяется год рождения. Возраст пользователь вводит в окно с полем, а вычисленный год
+рождения отображается в другом диалоговом окне. Предложите вариант
+программы, в которой используется консольный ввод и вывод данных.
+8. Напишите программу для вычисления суммы двух чисел. Оба числа вводятся пользователем. Для вычисления суммы используйте оператор . Предложите два варианта программы: программу, в которой данные вводятся и выводятся с помощью диалоговых окон, и программу,
+в которой используется консольный ввод и вывод данных.
+9. Напишите программу, в которой пользователь вводит число, а программой отображается последовательность из трех чисел: число, на единицу меньшее введенного, введенное число и число, на единицу большее введенного. Предложите версию программы с консольным вводом
+и выводом данных, а также версию программы, в которой ввод и вывод
+выполняется с помощью диалоговых окон.
+10. Напишите программу, в которой пользователь вводит два числа, а программой вычисляется и отображается сумма и разность этих чисел. Предложите варианты программы с использованием консольного ввода/вывода данных и ввода и вывода данных с помощью диалоговых окон
+
+UZ
+
+Mustaqil bajarish uchun vazifa
+
+    1. Foydalanuvchining ismini, keyin familiyasini kiritadigan dastur yozing. Dastur foydalanuvchining ismi va familiyasi haqida ma'lumotga ega xabarni ko'rsatadi. Muloqot oynalari yordamida matn kiritish va chiqarish amalga oshiriladigan dastur versiyasini taklif qiling. Shuningdek, dasturning konsol versiyasini taklif qiling.
+    2. Foydalanuvchi nomi va yoshini kiritadigan dasturni yozing. Dastur foydalanuvchining ismi va yoshi haqidagi xabarni ko'rsatadi. Dasturning konsol versiyasini va dialog oynalari yordamida ma'lumotlarni kiritish va chiqarish versiyasini taklif qiling.
+    3. Dasturni yozing, unda foydalanuvchi ketma-ket haftaning joriy kuni nomini, oy nomini va sanani (oydagi kunning raqamini) kiritadi. Dastur bugungi sana (hafta kuni, sana, oy) haqidagi xabarni ko'rsatadi. Konsol kiritish va chiqishdan foydalaning. Ma'lumotlarni kiritish va chiqarish uchun dialog oynalaridan foydalanadigan dastur versiyasini taklif qiling.
+    4. Foydalanuvchiga oy nomini va shu oydagi kunlar sonini kiritishni taklif qiladigan dastur yozing. Dastur tegishli oyda belgilangan kunlar sonini o'z ichiga olganligini ko'rsatadigan xabarni ko'rsatadi. Konsol orqali va dialog oynalaridan foydalangan holda ma'lumotlarni kiritish/chiqarish uchun dastur versiyalarini taklif qiling.
+    5. Foydalanuvchining yoshini aniqlash uchun tug‘ilgan yilidan foydalanadigan dastur tuzing. Konsol kiritish va chiqishdan foydalaning.
+    6. Dasturni yozing, unda foydalanuvchi ism va tug'ilgan yilini kiritadi va dastur foydalanuvchining ismi va yoshini o'z ichiga olgan xabarni ko'rsatadi. Dasturning konsol versiyasini, shuningdek, dialog oynalari yordamida ma'lumotlarni kiritish va chiqarish amalga oshiriladigan dastur versiyasini taklif qiling.
+    7. Tug'ilgan yili yoshga qarab belgilanadigan dastur yozing. Foydalanuvchi maydon oynasiga yoshni kiritadi va boshqa dialog oynasida hisoblangan tug'ilgan yili ko'rsatiladi. Konsol kiritish va chiqishdan foydalanadigan dastur versiyasini taklif qiling.
+    8. Ikki sonning yig'indisini hisoblash dasturini yozing. Ikkala raqam ham foydalanuvchi tomonidan kiritiladi. Yig'indini hisoblash uchun operatordan foydalaning. Dasturning ikkita versiyasini taklif qiling: dialog oynalari yordamida ma'lumotlarni kiritish va chiqarish dasturi va konsol kiritish va chiqarishdan foydalaniladigan dastur.
+    9. Foydalanuvchi raqam kiritadigan dastur yozing va dastur uchta raqam ketma-ketligini ko'rsatadi: kiritilgan raqamdan bir kichik raqam, kiritilgan raqam va kiritilgan raqamdan katta raqam. Dasturning konsolli kiritish va chiqish bilan versiyasini, shuningdek, kirish va chiqish dialog oynalari yordamida amalga oshiriladigan dastur versiyasini taklif qiling.
+    10. Foydalanuvchi ikkita raqam kiritadigan dastur yozing va dastur bu raqamlarning yig'indisi va ayirmasini hisoblab chiqadi va ekranga chiqaradi. Konsol ma'lumotlarini kiritish/chiqarish va dialog oynalari yordamida ma'lumotlarni kiritish va chiqarishdan foydalangan holda dastur variantlarini taqdim eting.

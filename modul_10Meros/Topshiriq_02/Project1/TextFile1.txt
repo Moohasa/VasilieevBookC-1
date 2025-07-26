@@ -1,0 +1,53 @@
+﻿2. Quyidagi funksiyalarni o‘z ichiga olgan dastur tuzing:
+
+Asosiy (baza) klass:
+- protected (himoyalangan) matnli maydonga ega bo‘ladi.
+- Ushbu klassda maydonga qiymat beruvchi ikkita metod bo‘ladi:
+  1) hech qanday argument olmaydigan versiya
+  2) bitta matnli argument qabul qiladigan versiya
+- Bu klassning konstruktori bitta matnli argumentni qabul qiladi.
+- Faqat o‘qishga mo‘ljallangan (read-only) xossa bo‘ladi:
+  → Bu xossa matnli maydonning uzunligini qaytaradi.
+- Faqat o‘qish uchun mo‘ljallangan indeksator bo‘ladi:
+  → U matndan indeks bo‘yicha belgi (char) qaytaradi.
+
+Hosila (merosxo‘r) klass:
+- Asosiy klassdan meros oladi.
+- Bu klassda yana bitta ochiq (public) butun sonli (int) maydon bo‘ladi.
+- Maydonlarga qiymat berish uchun quyidagi turdagi metodlar bo‘ladi:
+  1) hech qanday argumentsiz versiya
+  2) bitta matnli argumentli versiya
+  3) bitta butun sonli argumentli versiya
+  4) matnli va butun sonli argumentli versiya
+- Bu metodlar asosiy klass metodlarining:
+  → qayta aniqlanishi (override)
+  → va ortiqcha yuklanishi (overload) orqali yaratiladi.
+- Hosila klass konstruktori ikkita argument qabul qiladi:
+  1) bitta butun son (int)
+  2) bitta matn (string)
+
+
+
+1. Asosiy (baza) klass:
+   - protected (himoyalangan) matnli (string) maydon (field) bo‘ladi.
+   - Ushbu klassda quyidagi metodlar bo‘ladi:
+     a) qiymatni maydonga o‘rnatadigan metod – **argumentsiz** versiyasi
+     b) qiymatni maydonga o‘rnatadigan metod – **bitta matnli argument**li versiyasi
+   - Klass konstruktori **bitta matnli argument** oladi (obyekt yaratishda).
+   - Faqat o‘qish uchun mo‘ljallangan (read-only) **xossa (property)** mavjud bo‘ladi:
+     → Bu xossa matnli qiymatning uzunligini (length) qaytaradi.
+   - Faqat o‘qish uchun mo‘ljallangan **indeksator** mavjud bo‘ladi:
+     → Bu indeksator berilgan indeks bo‘yicha matndan belgini (char) qaytaradi.
+
+2. Hosila (merosxo‘r) klass:
+   - Asosiy klassdan meros oladi.
+   - Bu klassda yangi **ochiq (public) butun son (int) maydon** bo‘ladi.
+   - Maydonlarga qiymat berish uchun quyidagi metodlar bo‘ladi:
+     a) argumentsiz versiyasi
+     b) bitta matnli argumentli versiyasi
+     c) bitta butun sonli argumentli versiyasi
+     d) matnli va butun sonli ikkita argumentli versiyasi
+   - Bu metodlar orqali qiymat berish **metodlarni qayta aniqlash (override) va ortiqcha yuklash (overload)** bilan bajariladi.
+   - Hosila klass konstruktori **ikkita argument** qabul qiladi:
+     → bitta butun son
+     → bitta matnli qiymat

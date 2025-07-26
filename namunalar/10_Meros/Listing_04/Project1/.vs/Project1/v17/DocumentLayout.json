@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\my_projects\\topshiriqlarC#\\namunalar\\10_Meros\\Listing_04\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13BF806D-D76C-40DC-A904-BBAB8A08075C}|Project1.csproj|d:\\my_projects\\topshiriqlarc#\\namunalar\\10_meros\\listing_04\\project1\\codefile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BF806D-D76C-40DC-A904-BBAB8A08075C}|Project1.csproj|solutionrelative:codefile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BF806D-D76C-40DC-A904-BBAB8A08075C}|Project1.csproj|d:\\my_projects\\topshiriqlarc#\\namunalar\\10_meros\\listing_04\\project1\\konstructvadestruktlareslatma.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{13BF806D-D76C-40DC-A904-BBAB8A08075C}|Project1.csproj|solutionrelative:konstructvadestruktlareslatma.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "konstructVaDestruktlarEslatma.txt",
+              "DocumentMoniker": "D:\\my_projects\\topshiriqlarC#\\namunalar\\10_Meros\\Listing_04\\Project1\\konstructVaDestruktlarEslatma.txt",
+              "RelativeDocumentMoniker": "konstructVaDestruktlarEslatma.txt",
+              "ToolTip": "D:\\my_projects\\topshiriqlarC#\\namunalar\\10_Meros\\Listing_04\\Project1\\konstructVaDestruktlarEslatma.txt",
+              "RelativeToolTip": "konstructVaDestruktlarEslatma.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-20T07:44:22.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CodeFile1.cs",
+              "DocumentMoniker": "D:\\my_projects\\topshiriqlarC#\\namunalar\\10_Meros\\Listing_04\\Project1\\CodeFile1.cs",
+              "RelativeDocumentMoniker": "CodeFile1.cs",
+              "ToolTip": "D:\\my_projects\\topshiriqlarC#\\namunalar\\10_Meros\\Listing_04\\Project1\\CodeFile1.cs",
+              "RelativeToolTip": "CodeFile1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA0wCwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:30:21.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

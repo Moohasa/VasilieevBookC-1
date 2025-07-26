@@ -1,0 +1,19 @@
+Qanday ishlaydi?
++=, -=, *= operatorlari aslida qisqa yozilishlar bo‘lib, ular shunday ishlaydi:
+
+csharp
+Копировать
+Редактировать
+a += b;  // aslida: a = a + b;
+a -= b;  // aslida: a = a - b;
+a *= b;  // aslida: a = a * b;
+Bu degani, += uchun + operatori a + b ni qaytarishi kerak, va shunga o‘xshab boshqalar ham.
+
+Shuning uchun, biz quyidagilarni qilamiz:
+
++, -, * operatorlarini overload qilamiz.
+
+Bu operatorlar yangi obyekti qaytaradi.
+
+Keyin +=, -=, *= operatorlari avtomatik ishlaydi.
+

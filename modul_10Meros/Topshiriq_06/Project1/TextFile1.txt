@@ -1,0 +1,35 @@
+﻿Asosiy talablar:
+1. Baza klass (BaseClass):
+protected string tipidagi maydon bo‘ladi (matnli maydon)
+
+string argument qabul qiladigan konstruktor bo‘ladi
+
+Konsolga klass nomi va maydon qiymatini chiqaradigan metod bo‘ladi
+
+2. Ikki dona hosila klass (ikkalasi bir xil baza klassdan meros oladi):
+🟦 Birinchi hosila klass (FirstDerived):
+protected int maydon bo‘ladi
+
+Konstruktor 2 ta parametr oladi: string va int
+
+Konsolga klass nomi va maydon(lar) qiymatini chiqaruvchi metod override qilinadi
+
+🟩 Ikkinchi hosila klass (SecondDerived):
+protected char maydon bo‘ladi
+
+Konstruktor 2 ta parametr oladi: string va char
+
+Konsolga klass nomi va maydon(lar) qiymatini chiqaruvchi metod override qilinadi
+
+3. Main() metodida quyidagilar qilinadi:
+Har bir klassdan obyekt yaratiladi
+
+Har bir obyekt uchun metod chaqiriladi
+
+So‘ngra:
+
+Baza klass tipidagi o‘zgaruvchiga hosila obyekt beriladi
+
+Metod shu baza tipidagi o‘zgaruvchi orqali virtual tarzda chaqiriladi
+→ bu polimorfizm misolidir
+

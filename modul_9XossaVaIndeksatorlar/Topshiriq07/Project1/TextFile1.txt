@@ -1,0 +1,50 @@
+﻿Klass yarating, unda manfiy bo‘lmagan butun son (int) saqlanadi
+
+Klassda indeksator (this[int index]) bo‘lsin, faqat get bilan
+
+Indeks orqali murojaat qilinganda, berilgan sonning ikkilik (binary) ko‘rinishidagi index-bit qiymatini qaytarsin
+
+Masalan:
+
+son = 10 → ikkilikda: 00001010
+
+obj[0] → 0 (eng o‘ngdagi bit)
+
+obj[1] → 1
+
+obj[2] → 0
+
+obj[3] → 1
+
+ Nima qilish kerak?
+Klass nomi: MyClass
+
+private int number; — ichki butun sonli maydon
+
+public MyClass(int n) — konstruktor orqali qiymat tayinlash
+
+public int this[int index] — faqat get bo‘ladi:
+
+return (number >> index) & 1;
+
+Bu formulada:
+
+>> — bitni o‘ngga siljitish
+
+& 1 — faqat bitta bitni ajratib olish (0 yoki 1)
+
+Agar son 10 bo‘lsa, ikkilikda:
+0000 1010
+      ↑↑↑↑
+index: 3 2 1 0
+        1 0 1 0
+        Shunda:
+
+obj[0] → 0
+
+obj[1] → 1
+
+obj[2] → 0
+
+obj[3] → 1
+

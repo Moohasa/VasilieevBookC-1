@@ -1,0 +1,39 @@
+﻿7-TOPSHIRIQ – TARJIMASI:
+
+Dastur yozing, unda quyidagilar bo‘lishi kerak:
+
+1. Baza klass:
+   - Ochiq (public) matnli (string) maydon bo‘ladi
+   - Ushbu klass asosida hosila klass yaratiladi
+
+2. Hosila klass (ya'ni, bazadan meros olgan klass):
+   - Yana bitta ochiq belgili (char) maydon bo‘ladi
+
+3. Baza klassda virtual metod bo‘ladi:
+   - Bu metod ishga tushganda yangi hosila klass obyektini yaratadi
+   - Va uni **qaytaradi**
+
+4. Hosila klassda bu metod **override** qilinadi:
+   - Metod ishga tushganda, **o‘zi chaqirilgan obyektning** nusxasini yaratadi
+   - Ya’ni, o‘zining `text` va `char` maydonlari qiymatini saqlagan holda yangi obyekt yaratib, **qaytaradi**
+
+5. `Main()` metodida:
+   - Baza va hosila klassdan obyektlar yaratiladi
+   - Metod chaqiriladi va qaytgan obyektlar ustida ishlanadi
+
+
+TUSHUNTIRISH:
+
+👉 Bu topshiriqda sizdan quyidagilar talab qilinmoqda:
+
+- Virtual metod degani: `Base` klassda `public virtual Base Create()` kabi metod yoziladi.
+- Bu metod `Base` klassda oddiy `Derived` obyektini qaytaradi (masalan: `return new Derived();`)
+- `Derived` (hosila klass) bu metodni override qilib, `this` obyektning qiymatlari asosida **nusxa** (ya’ni `new Derived(this.text, this.symbol)`) hosil qiladi.
+
+BU YONDASHUV POLIMORFIZM ORQALI “FABRIKA”GA O‘XSHAGAN USUL.
+
+YA’NI:
+- Har xil klasslar o‘zlariga mos nusxa yaratishni bilishadi
+- Baza klass orqali bu metod chaqirilganda, qanday obyektga bog‘langaniga qarab turli obyektlar yaratiladi
+
+✅ Bu – **virtual method + inheritance + object cloning** konsepsiyalarini birlashtirgan mashqdir.

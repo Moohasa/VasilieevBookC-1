@@ -1,0 +1,8 @@
+Dastur yozing. Unda butun sonli massivga ishora qiluvchi maydon mavjud bo‘lgan klass bo‘lsin.
+Quyidagi tip konvertatsiyasi operatorlari (conversion operators) overload qilinsin:
+
+Obyekt → string: massiv elementlari vergul bilan ajratilgan satr ko‘rinishida qaytadi
+
+Obyekt → int: massiv elementlarining yig‘indisi qaytadi
+
+int → obyekt: yangi obyekt yaratiladi, massiv uzunligi bu son bilan belgilanadi, barcha elementlar 0 ga teng bo‘ladi

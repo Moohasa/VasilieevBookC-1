@@ -1,0 +1,7 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_3\examples\ProjectFibonacce\bin\Debug\ProjectFibonacce.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_3\examples\ProjectFibonacce\bin\Debug\ProjectFibonacce.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_3\examples\ProjectFibonacce\bin\Debug\ProjectFibonacce.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_3\examples\ProjectFibonacce\obj\Debug\ProjectFibonacce.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_3\examples\ProjectFibonacce\obj\Debug\ProjectFibonacce.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_3\examples\ProjectFibonacce\obj\Debug\ProjectFibonacce.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_3\examples\ProjectFibonacce\obj\Debug\ProjectFibonacce.pdb

@@ -1,0 +1,4 @@
+﻿. Shunday dastur yozingki, unda bitta simvolli (char) xususiyatga ega klass bo‘lsin.
+Ushbu xususiyat (property) uchun getter va setter (aksesyorlar) yozing.
+Setter faqat 'A' dan 'Z' gacha bo‘lgan belgilarni qabul qiladigan qilib ishlasin
+(ya'ni faqat katta lotin harflariga ruxsat berilsin).

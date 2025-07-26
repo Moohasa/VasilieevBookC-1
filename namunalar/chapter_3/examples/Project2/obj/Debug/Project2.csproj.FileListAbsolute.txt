@@ -1,0 +1,7 @@
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_3\examples\Project2\bin\Debug\Project2.exe.config
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_3\examples\Project2\bin\Debug\Project2.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_3\examples\Project2\bin\Debug\Project2.pdb
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_3\examples\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_3\examples\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_3\examples\Project2\obj\Debug\Project2.exe
+D:\МОЙ ПЕРЕВОД\N.Vasilev_Tasks\chapter_3\examples\Project2\obj\Debug\Project2.pdb
